@@ -1,0 +1,433 @@
+Partido,Id_Provincia,Id_Partido
+25 de Mayo,2,1
+9 de Julio,2,2
+Adolfo Alsina,2,3
+Adolfo Gonzales Chaves,2,4
+Alberti,2,5
+Almirante Brown,2,6
+Amba,2,7
+Arrecifes,2,8
+Avellaneda,2,9
+Ayacucho,2,10
+Azul,2,11
+Bahia Blanca,2,12
+Balcarce,2,13
+Baradero,2,14
+Benito Juarez,2,15
+Berazategui,2,16
+Berisso,2,17
+Bolivar,2,18
+Bragado,2,19
+Brandsen,2,20
+Campana,2,21
+Canuelas,2,22
+Capitan Sarmiento,2,23
+Carlos Casares,2,24
+Carlos Tejedor,2,25
+Carmen de Areco,2,26
+Castelli,2,27
+Chacabuco,2,28
+Chascomus,2,29
+Chivilcoy,2,30
+Colon,2,31
+Coronel de Marina L. Rosales,2,32
+Coronel Dorrego,2,33
+Coronel Pringles,2,34
+Coronel Suarez,2,35
+Daireaux,2,36
+Dolores,2,37
+Ensenada,2,38
+Escobar,2,39
+Esteban Echeverria,2,40
+Exaltacion de la Cruz,2,41
+Ezeiza,2,42
+Florencio Varela,2,43
+Florentino Ameghino,2,44
+General Alvarado,2,45
+General Alvear,2,46
+General Arenales,2,47
+General Belgrano,2,48
+General Guido,2,49
+General Juan Madariaga,2,50
+General la Madrid,2,51
+General las Heras,2,52
+General Lavalle,2,53
+General Paz,2,54
+General Pinto,2,55
+General Pueyrredon,2,56
+General Rodriguez,2,57
+General San Martin,2,58
+General Viamonte,2,59
+General Villegas,2,60
+Guamini,2,61
+Hipolito Yrigoyen,2,62
+Hurlingham,2,63
+Ituzaingo,2,64
+Jose C. Paz,2,65
+Junin,2,66
+La Costa,2,67
+La Matanza,2,68
+La Plata,2,69
+Lanus,2,70
+Laprida,2,71
+Las Flores,2,72
+Leandro N. Alem,2,73
+Lincoln,2,74
+Loberia,2,75
+Lobos,2,76
+Lomas de Zamora,2,77
+Lujan,2,78
+Magdalena,2,79
+Maipu,2,80
+Malvinas Argentinas,2,81
+Mar Chiquita,2,82
+Marcos Paz,2,83
+Mercedes,2,84
+Merlo,2,85
+Monte,2,86
+Monte Hermoso,2,87
+Moreno,2,88
+Moron,2,89
+Navarro,2,90
+Necochea,2,91
+Olavarria,2,92
+Patagones,2,93
+Pehuajo,2,94
+Pellegrini,2,95
+Pergamino,2,96
+Pila,2,97
+Pilar,2,98
+Pinamar,2,99
+Presidente Peron,2,100
+Puan,2,101
+Punta Indio,2,102
+Quilmes,2,103
+Ramallo,2,104
+Rauch,2,105
+Rivadavia,2,106
+Rojas,2,107
+Roque Perez,2,108
+Saavedra,2,109
+Saladillo,2,110
+Salliquelo,2,111
+Salto,2,112
+San Andres de Giles,2,113
+San Antonio de Areco,2,114
+San Cayetano,2,115
+San Fernando,2,116
+San Isidro,2,117
+San Miguel,2,118
+San Nicolas,2,119
+San Pedro,2,120
+San Vicente,2,121
+Suipacha,2,122
+Tandil,2,123
+Tapalque,2,124
+Tigre,2,125
+Tordillo,2,126
+Tornquist,2,127
+Trenque Lauquen,2,128
+Tres Arroyos,2,129
+Tres de Febrero,2,130
+Tres Lomas,2,131
+Vicente Lopez,2,132
+Villa Gesell,2,133
+Villarino,2,134
+Zarate,2,135
+Caba,1,136
+Otros,1,137
+Ambato,3,138
+Ancasti,3,139
+Andalgala,3,140
+Antofagasta de la Sierra,3,141
+Belen,3,142
+Capayan,3,143
+Capital,3,144
+El Alto,3,145
+Fray Mamerto Esquiu,3,146
+La Paz,3,147
+Paclin,3,148
+Poman,3,149
+Santa Maria,3,150
+Santa Rosa,3,151
+Tinogasta,3,152
+Valle Viejo,3,153
+12 de Octubre,4,154
+1o de Mayo,4,155
+2 de Abril,4,156
+Bermejo,4,157
+Comandante Fernandez,4,158
+Fray Justo Santa Maria de Oro,4,159
+General Donovan,4,160
+General Guemes,4,161
+Independencia,4,162
+Libertad,4,163
+Libertador General San Martin,4,164
+Mayor Luis J. Fontana,4,165
+O Higgins,4,166
+Presidencia de la Plaza,4,167
+Quitilipi,4,168
+San Lorenzo,4,169
+Sargento Cabral,4,170
+Tapenaga,4,171
+Biedma,5,172
+Cushamen,5,173
+Escalante,5,174
+Futaleufu,5,175
+Gaiman,5,176
+Gastre,5,177
+Languineo,5,178
+Martires,5,179
+Paso de Indios,5,180
+Rawson,5,181
+Rio Senguer,5,182
+Sarmiento,5,183
+Tehuelches,5,184
+Telsen,5,185
+Calamuchita,6,186
+Cruz del Eje,6,187
+General Roca,6,188
+Ischilin,6,189
+Juarez Celman,6,190
+Marcos Juarez,6,191
+Minas,6,192
+Pocho,6,193
+Presidente Roque Saenz Pena,6,194
+Punilla,6,195
+Rio Cuarto,6,196
+Rio Primero,6,197
+Rio Seco,6,198
+Rio Segundo,6,199
+San Alberto,6,200
+San Javier,6,201
+San Justo,6,202
+Sobremonte,6,203
+Tercero Arriba,6,204
+Totoral,6,205
+Tulumba,6,206
+Union,6,207
+Bella Vista,7,208
+Beron de Astrada,7,209
+Concepcion,7,210
+Curuzu Cuatia,7,211
+Empedrado,7,212
+Esquina,7,213
+Goya,7,214
+Itati,7,215
+Lavalle,7,216
+Mburucuya,7,217
+Monte Caseros,7,218
+Paso de los Libres,7,219
+Saladas,7,220
+San Cosme,7,221
+San Luis del Palmar,7,222
+San Martin,7,223
+San Roque,7,224
+Santo Tome,7,225
+Sauce,7,226
+Concordia,8,227
+Diamante,8,228
+Federacion,8,229
+Federal,8,230
+Feliciano,8,231
+Gualeguay,8,232
+Gualeguaychu,8,233
+Islas del Ibicuy,8,234
+Nogoya,8,235
+Parana,8,236
+San Salvador,8,237
+Tala,8,238
+Uruguay,8,239
+Victoria,8,240
+Villaguay,8,241
+Formosa,9,242
+Laishi,9,243
+Matacos,9,244
+Patino,9,245
+Pilagas,9,246
+Pilcomayo,9,247
+Pirane,9,248
+Ramon Lista,9,249
+Cochinoca,10,250
+Doctor Manuel Belgrano,10,251
+El Carmen,10,252
+Humahuaca,10,253
+Ledesma,10,254
+Palpala,10,255
+Rinconada,10,256
+San Antonio,10,257
+Santa Barbara,10,258
+Santa Catalina,10,259
+Susques,10,260
+Tilcara,10,261
+Tumbaya,10,262
+Valle Grande,10,263
+Yavi,10,264
+Atreuco,11,265
+Caleu Caleu,11,266
+Catrilo,11,267
+Chalileo,11,268
+Chapaleufu,11,269
+Chical Co,11,270
+Conhelo,11,271
+Curaco,11,272
+Guatrache,11,273
+Hucal,11,274
+Lihuel Calel,11,275
+Limay Mahuida,11,276
+Loventue,11,277
+Maraco,11,278
+Puelen,11,279
+Quemu Quemu,11,280
+Rancul,11,281
+Realico,11,282
+Toay,11,283
+Trenel,11,284
+Utracan,11,285
+Arauco,12,286
+Castro Barros,12,287
+Chamical,12,288
+Chilecito,12,289
+Coronel Felipe Varela,12,290
+Famatina,12,291
+General Angel V. Penaloza,12,292
+General Juan F. Quiroga,12,293
+General Lamadrid,12,294
+General Ocampo,12,295
+Rosario Vera Penaloza,12,296
+San Blas de los Sauces,12,297
+Sanagasta,12,298
+Vinchina,12,299
+Godoy Cruz,13,300
+Guaymallen,13,301
+Las Heras,13,302
+Lujan de Cuyo,13,303
+Malargue,13,304
+San Carlos,13,305
+San Rafael,13,306
+Tunuyan,13,307
+Tupungato,13,308
+Apostoles,14,309
+Cainguas,14,310
+Candelaria,14,311
+Eldorado,14,312
+General Manuel Belgrano,14,313
+Guarani,14,314
+Iguazu,14,315
+Libertador Grl. San Martin,14,316
+Montecarlo,14,317
+Obera,14,318
+San Ignacio,14,319
+Alumine,15,320
+Anelo,15,321
+Catan Lill,15,322
+Chos Malal,15,323
+Collon Cura,15,324
+Confluencia,15,325
+Huiliches,15,326
+Lacar,15,327
+Loncopue,15,328
+Los Lagos,15,329
+Norquin,15,330
+Pehuenches,15,331
+Picun Leufu,15,332
+Picunches,15,333
+Zapala,15,334
+Bariloche,16,335
+Conesa,16,336
+El Cuy,16,337
+Norquinco,16,338
+Pichi Mahuida,16,339
+Pilcaniyeu,16,340
+Valcheta,16,341
+Anta,17,342
+Cachi,17,343
+Cafayate,17,344
+Cerrillos,17,345
+Chicoana,17,346
+Grl. Jose de San Martin,17,347
+Guachipas,17,348
+Iruya,17,349
+La Caldera,17,350
+La Candelaria,17,351
+La Poma,17,352
+La Vina,17,353
+Los Andes,17,354
+Metan,17,355
+Molinos,17,356
+Oran,17,357
+Rosario de la Frontera,17,358
+Rosario de Lerma,17,359
+Santa Victoria,17,360
+Albardon,18,361
+Angaco,18,362
+Calingasta,18,363
+Caucete,18,364
+Chimbas,18,365
+Iglesia,18,366
+Jachal,18,367
+Pocito,18,368
+Santa Lucia,18,369
+Ullum,18,370
+Valle Fertil,18,371
+Zonda,18,372
+Belgrano,19,373
+General Pedernera,19,374
+Gobernador Dupuy,19,375
+La Capital,19,376
+Corpen Aike,20,377
+Deseado,20,378
+Guer Aike,20,379
+Lago Argentino,20,380
+Lago Buenos Aires,20,381
+Magallanes,20,382
+Rio Chico,20,383
+Caseros,21,384
+Castellanos,21,385
+Constitucion,21,386
+Garay,21,387
+General Lopez,21,388
+General Obligado,21,389
+Iriondo,21,390
+Las Colonias,21,391
+Rosario,21,392
+San Cristobal,21,393
+San Jeronimo,21,394
+Vera,21,395
+Aguirre,22,396
+Alberdi,22,397
+Atamisqui,22,398
+Banda,22,399
+Choya,22,400
+Copo,22,401
+Figueroa,22,402
+General Taboada,22,403
+Guasayan,22,404
+Jimenez,22,405
+Juan F. Ibarra,22,406
+Loreto,22,407
+Mitre,22,408
+Ojo de Agua,22,409
+Quebrachos,22,410
+Rio Hondo,22,411
+Robles,22,412
+Salavina,22,413
+Silipica,22,414
+Antartida Argentina,23,415
+Rio Grande,23,416
+Ushuaia,23,417
+Burruyacu,24,418
+Chicligasta,24,419
+Cruz Alta,24,420
+Famailla,24,421
+Graneros,24,422
+Juan Bautista Alberdi,24,423
+La Cocha,24,424
+Leales,24,425
+Lules,24,426
+Monteros,24,427
+Simoca,24,428
+Tafi del Valle,24,429
+Tafi Viejo,24,430
+Trancas,24,431
+Yerba Buena,24,432

@@ -1,0 +1,2794 @@
+Localidad,Id_Provincia,Id_Partido,Id_Localidad
+25 de Mayo,2,1,1
+Agustin Mosconi,2,1,2
+Del Valle,2,1,3
+Ernestina,2,1,4
+Gobernador Ugarte,2,1,5
+Lucas Monteverde,2,1,6
+Norberto de la Riestra,2,1,7
+Pedernales,2,1,8
+San Enrique,2,1,9
+Valdes,2,1,10
+12 de Octubre,2,2,11
+9 de Julio,2,2,12
+Alfredo Demarchi (est. Facundo Quiroga),2,2,13
+Dudignac,2,2,14
+Manuel B. Gonnet (est. French),2,2,15
+Morea,2,2,16
+Patricios,2,2,17
+Villa General Fournier (est. 9 de Julio Sud),2,2,18
+Carhue,2,3,19
+Colonia San Miguel Arcangel,2,3,20
+Esteban Agustin Gascon,2,3,21
+Maza,2,3,22
+Rivera,2,3,23
+Adolfo Gonzales Chaves (est. Chaves),2,4,24
+De la Garma,2,4,25
+Juan E. Barra,2,4,26
+Vasquez,2,4,27
+Alberti (est. Andres Vaccarezza),2,5,28
+Coronel Segui,2,5,29
+Mechita,2,5,30
+Villa Ortiz (est. Coronel Mom),2,5,31
+Adrogue,2,6,32
+Burzaco,2,6,33
+Claypole,2,6,34
+Don Orione,2,6,35
+Glew,2,6,36
+Jose Marmol,2,6,37
+Longchamps,2,6,38
+Malvinas Argentinas,2,6,39
+Ministro Rivadavia,2,6,40
+Rafael Calzada,2,6,41
+San Francisco Solano,2,6,42
+San Jose,2,6,43
+Otros,2,7,44
+Arrecifes,2,8,45
+Todd,2,8,46
+Vina,2,8,47
+Avellaneda,2,9,48
+Crucesita,2,9,49
+Dock Sud,2,9,50
+Gerli,2,9,51
+Pineyro,2,9,52
+Sarandi,2,9,53
+Villa Dominico,2,9,54
+Wilde,2,9,55
+Ayacucho,2,10,56
+La Constancia,2,10,57
+Solanet,2,10,58
+Udaquiola,2,10,59
+Azul,2,11,60
+Cachari,2,11,61
+Chillar,2,11,62
+Bahia Blanca,2,12,63
+Cabildo,2,12,64
+General Daniel Cerri (est. General Cerri),2,12,65
+Ingeniero White,2,12,66
+Balcarce,2,13,67
+Los Pinos,2,13,68
+Napaleofu,2,13,69
+Ramos Otero,2,13,70
+San Agustin,2,13,71
+Villa Laguna la Brava,2,13,72
+Baradero,2,14,73
+Irineo Portela,2,14,74
+Santa Coloma,2,14,75
+Villa Alsina (est. Alsina),2,14,76
+Barker,2,15,77
+Benito Juarez (est. Juarez),2,15,78
+Lopez,2,15,79
+Villa Cacique (est. Alfredo Fortabat),2,15,80
+Berazategui,2,16,81
+Berazategui Oeste,2,16,82
+Carlos Tomas Sourigues,2,16,83
+Centro Agricola el Pato,2,16,84
+Guillermo E. Hudson,2,16,85
+Juan Maria Gutierrez,2,16,86
+Pereyra,2,16,87
+Platanos,2,16,88
+Ranelagh,2,16,89
+Villa Espana,2,16,90
+Barrio el Carmen (este),2,17,91
+Berisso,2,17,92
+Villa Arguello,2,17,93
+Villa Nueva,2,17,94
+Villa Progreso,2,17,95
+Hale,2,18,96
+Juan F. Ibarra,2,18,97
+Pirovano,2,18,98
+San Carlos de Bolivar (est. Bolivar),2,18,99
+Urdampilleta,2,18,100
+Bragado,2,19,101
+Comodoro Py,2,19,102
+General O'brien,2,19,103
+Irala,2,19,104
+Mechita (est. Mecha),2,19,105
+Olascoaga,2,19,106
+Warnes,2,19,107
+Coronel Brandsen,2,20,108
+Jeppener,2,20,109
+Alto los Cardales,2,21,110
+Barrio los Pioneros,2,21,111
+Campana,2,21,112
+Chacras del Rio Lujan,2,21,113
+Lomas del Rio Lujan (est. Rio Lujan),2,21,114
+Alejandro Petion,2,22,115
+Barrio Belgrano-maximo Paz,2,22,116
+Barrio el Taladro,2,22,117
+Canuelas,2,22,118
+Gobernador Udaondo,2,22,119
+Maximo Paz,2,22,120
+Santa Rosa,2,22,121
+Uribelarrea,2,22,122
+Vicente Casares,2,22,123
+Capitan Sarmiento,2,23,124
+La Luisa,2,23,125
+Cadret,2,24,126
+Carlos Casares,2,24,127
+La Sofia,2,24,128
+Mauricio Hirsch,2,24,129
+Moctezuma,2,24,130
+Santo Tomas,2,24,131
+Smith,2,24,132
+Carlos Tejedor,2,25,133
+Colonia Sere,2,25,134
+Curaru,2,25,135
+Timote,2,25,136
+Tres Algarrobos (est. Cuenca),2,25,137
+Carmen de Areco,2,26,138
+Pueblo Gouin,2,26,139
+Tres Sargentos,2,26,140
+Castelli,2,27,141
+Centro Guerrero,2,27,142
+Cerro de la Gloria,2,27,143
+Castilla,2,28,144
+Chacabuco,2,28,145
+O'higgins,2,28,146
+Rawson,2,28,147
+Barrio San Cayetano,2,29,148
+Chascomus,2,29,149
+Manuel J. Cobo (est. Lezama),2,29,150
+Benitez,2,30,151
+Chivilcoy,2,30,152
+Emilio Ayarza,2,30,153
+Gorostiaga,2,30,154
+La Rica,2,30,155
+Moquehua,2,30,156
+Ramon Biaus,2,30,157
+San Sebastian,2,30,158
+Colon,2,31,159
+Pearson,2,31,160
+Sarasa,2,31,161
+Bajo Hondo,2,32,162
+Balneario Pehuen Co,2,32,163
+Pago Chico,2,32,164
+Punta Alta (est Almirante Solier),2,32,165
+Villa del Mar,2,32,166
+Villa General Arias (est. Kilometro 638),2,32,167
+Balneario Marisol,2,33,168
+Coronel Dorrego,2,33,169
+El Perdido (est. Jose A. Guisasola),2,33,170
+Oriente,2,33,171
+Coronel Pringles (est. Pringles),2,34,172
+Indio Rico,2,34,173
+Coronel Suarez,2,35,174
+Huanguelen,2,35,175
+Pasman,2,35,176
+Santa Maria,2,35,177
+Santa Trinidad,2,35,178
+Villa la Arcadia,2,35,179
+Daireaux,2,36,180
+Salazar,2,36,181
+Dolores,2,37,182
+Sevigne,2,37,183
+Ensenada,2,38,184
+Villa Catela,2,38,185
+Belen de Escobar,2,39,186
+El Cazador,2,39,187
+Garin,2,39,188
+Ingeniero Maschwitz,2,39,189
+Loma Verde,2,39,190
+Maquinista F. Savio (este),2,39,191
+Matheu,2,39,192
+9 de Abril,2,40,193
+Canning,2,40,194
+El Jaguel,2,40,195
+Luis Guillon,2,40,196
+Monte Grande,2,40,197
+Zona Aeropuerto Internacional Ezeiza,2,40,198
+Arroyo de la Cruz,2,41,199
+Capilla del Senor (est. Capilla),2,41,200
+El Remanso,2,41,201
+Los Cardales,2,41,202
+Parada Orlando,2,41,203
+Parada Robles - Pavon,2,41,204
+Aeropuerto Internacional Ezeiza,2,42,205
+Carlos Spegazzini,2,42,206
+Jose Maria Ezeiza,2,42,207
+La Union,2,42,208
+Tristan Suarez,2,42,209
+Bosques,2,43,210
+Estanislao Severo Zeballos,2,43,211
+Florencio Varela,2,43,212
+Gobernador Julio A. Costa,2,43,213
+Ingeniero Juan Allan,2,43,214
+La Capilla,2,43,215
+La Rotonda,2,43,216
+Villa Brown,2,43,217
+Villa San Luis,2,43,218
+Villa Santa Rosa,2,43,219
+Villa Vatteone,2,43,220
+Blaquier,2,44,221
+Florentino Ameghino,2,44,222
+Porvenir,2,44,223
+Centinela del Mar,2,45,224
+Comandante Nicanor Otamendi,2,45,225
+Mar del Sur,2,45,226
+Mechongue,2,45,227
+Miramar,2,45,228
+General Alvear,2,46,229
+Arribenos,2,47,230
+Ascension,2,47,231
+Ferre,2,47,232
+General Arenales,2,47,233
+La Angelita,2,47,234
+La Trinidad,2,47,235
+General Belgrano,2,48,236
+Gorchs,2,48,237
+General Guido,2,49,238
+Labarden,2,49,239
+General Juan Madariaga,2,50,240
+General la Madrid,2,51,241
+Las Martinetas,2,51,242
+General las Heras (est. las Heras),2,52,243
+Lozano,2,52,244
+Villars,2,52,245
+Chacras de San Clemente,2,53,246
+General Lavalle,2,53,247
+Pavon,2,53,248
+Ranchos,2,54,249
+Villanueva (ap. Rio Salado),2,54,250
+Colonia San Ricardo (est. Iriarte),2,55,251
+General Pinto,2,55,252
+Germania (est. Mayor Jose Orellano),2,55,253
+Villa Francia (est. Coronel Granada),2,55,254
+Barrio Colinas Verdes,2,56,255
+Barrio el Boqueron,2,56,256
+Barrio el Casal,2,56,257
+Barrio el Coyunco,2,56,258
+Barrio la Gloria,2,56,259
+Barrio Santa Paula,2,56,260
+Batan,2,56,261
+Camet,2,56,262
+Chapadmalal,2,56,263
+El Marquesado,2,56,264
+Estacion Chapadmalal,2,56,265
+Mar del Plata,2,56,266
+Sierra de los Padres,2,56,267
+Barrio Ruta 24 Kilometro 10,2,57,268
+General Rodriguez,2,57,269
+Barrio Parque General San Martin,2,58,270
+Billinghurst,2,58,271
+Ciudad del Libertador General San Martin,2,58,272
+Ciudad Jardin el Libertador,2,58,273
+Va Ma Irene de los Remedios de Escalada,2,58,274
+Villa Ayacucho,2,58,275
+Villa Ballester,2,58,276
+Villa Bernardo Monteagudo,2,58,277
+Villa Chacabuco,2,58,278
+Villa Coronel Jose M. Zapiola,2,58,279
+Villa General Antonio J. de Sucre,2,58,280
+Villa General Eugenio Necochea,2,58,281
+Villa General Jose Tomas Guido,2,58,282
+Villa General Juan G. las Heras,2,58,283
+Villa Godoy Cruz,2,58,284
+Villa Granaderos de San Martin,2,58,285
+Villa Gregoria Matorras,2,58,286
+Villa Jose Leon Suarez,2,58,287
+Villa Juan Martin de Pueyrredon,2,58,288
+Villa Libertad,2,58,289
+Villa Lynch,2,58,290
+Villa Maipu,2,58,291
+Villa Marques Alejandro Maria de Aguado,2,58,292
+Villa Parque Pres Figueroa Alcorta,2,58,293
+Villa Parque San Lorenzo,2,58,294
+Villa San Andres,2,58,295
+Villa Yapeyu,2,58,296
+Baigorrita,2,59,297
+Los Toldos,2,59,298
+Zavalia,2,59,299
+Banderalo,2,60,300
+Canada Seca,2,60,301
+Coronel Charlone,2,60,302
+Emilio V. Bunge,2,60,303
+General Villegas (est. Villegas),2,60,304
+Piedritas,2,60,305
+Santa Regina,2,60,306
+Arroyo Venado,2,61,307
+Casbas,2,61,308
+Guamini,2,61,309
+Laguna Alsina (est. Bonifacio),2,61,310
+Henderson,2,62,311
+Hurlingham,2,63,312
+Villa Santos Tesei,2,63,313
+William C. Morris,2,63,314
+Ituzaingo Centro,2,64,315
+Ituzaingo Sur,2,64,316
+Villa Gobernador Udaondo,2,64,317
+Del Viso,2,65,318
+Jose C Paz,2,65,319
+Tortuguitas,2,65,320
+Agustin Roca,2,66,321
+Agustina,2,66,322
+Balneario Laguna de Gomez,2,66,323
+Fortin Tiburcio,2,66,324
+Junin,2,66,325
+Laplacette,2,66,326
+Morse,2,66,327
+Saforcada,2,66,328
+Aguas Verdes,2,67,329
+Las Toninas,2,67,330
+Lucila del Mar,2,67,331
+Mar de Ajo - San Bernardo,2,67,332
+San Clemente del Tuyu,2,67,333
+Santa Teresita - Mar del Tuyu,2,67,334
+20 de Junio,2,68,335
+Aldo Bonzi,2,68,336
+Ciudad Evita,2,68,337
+Gonzalez Catan,2,68,338
+Gregorio de Laferrere,2,68,339
+Isidro Casanova,2,68,340
+La Tablada,2,68,341
+Lomas del Mirador,2,68,342
+Rafael Castillo,2,68,343
+Ramos Mejia,2,68,344
+San Justo,2,68,345
+Tapiales,2,68,346
+Villa Eduardo Madero,2,68,347
+Villa Luzuriaga,2,68,348
+Virrey del Pino,2,68,349
+Abasto,2,69,350
+Angel Etcheverry,2,69,351
+Arana,2,69,352
+Arturo Segui,2,69,353
+Barrio el Carmen Oeste,2,69,354
+Barrio el Peligro,2,69,355
+Barrio Gambier,2,69,356
+City Bell,2,69,357
+Colonia la Plata,2,69,358
+Country Club el Rodeo,2,69,359
+El Retiro,2,69,360
+Ignacio Correas,2,69,361
+Joaquin Gorina,2,69,362
+Jose Hernandez,2,69,363
+Jose Melchor Romero,2,69,364
+La Cumbre,2,69,365
+La Plata,2,69,366
+Lisandro Olmos,2,69,367
+Los Hornos,2,69,368
+Manuel B Gonnet,2,69,369
+Ringuelet,2,69,370
+Ruta del Sol,2,69,371
+Tolosa,2,69,372
+Transradio,2,69,373
+Villa Elisa,2,69,374
+Villa Elvira,2,69,375
+Villa Garibaldi,2,69,376
+Villa Montoro,2,69,377
+Villa Parque Sicardi,2,69,378
+Lanus Este,2,70,379
+Lanus Oeste,2,70,380
+Monte Chingolo,2,70,381
+Remedios Escalada de San Martin,2,70,382
+Valentin Alsina,2,70,383
+Laprida,2,71,384
+Pueblo Nuevo,2,71,385
+Pueblo San Jorge,2,71,386
+Coronel Boerr,2,72,387
+El Trigo,2,72,388
+Las Flores,2,72,389
+Pardo,2,72,390
+Alberdi Viejo,2,73,391
+El Dorado,2,73,392
+Fortin Acha,2,73,393
+Juan Bautista Alberdi (est. Alberdi),2,73,394
+Leandro N. Alem,2,73,395
+Vedia,2,73,396
+Arenaza,2,74,397
+Bayauca,2,74,398
+Carlos Salas,2,74,399
+Coronel Martinez de Hoz (ap. Kilometro 322),2,74,400
+El Triunfo,2,74,401
+Las Toscas,2,74,402
+Lincoln,2,74,403
+Pasteur,2,74,404
+Roberts,2,74,405
+Licenciado Matienzo,2,75,406
+Loberia,2,75,407
+Pieres,2,75,408
+San Manuel,2,75,409
+Antonio Carboni,2,76,410
+Elvira,2,76,411
+Lobos,2,76,412
+Salvador Maria,2,76,413
+Banfield,2,77,414
+Llavallol,2,77,415
+Lomas de Zamora,2,77,416
+Temperley,2,77,417
+Turdera,2,77,418
+Villa Centenario,2,77,419
+Villa Fiorito,2,77,420
+Barrio las Casuarinas,2,78,421
+Carlos Keen,2,78,422
+Cortines,2,78,423
+Jose Maria Jauregui (est. Jauregui),2,78,424
+Lezica y Torrezuri,2,78,425
+Lujan,2,78,426
+Olivera,2,78,427
+Open Door (est. Dr. Domingo Cabred),2,78,428
+Torres,2,78,429
+General Mansilla (est. Bartolome Bavio),2,79,430
+Magdalena,2,79,431
+Vieytes,2,79,432
+Las Armas,2,80,433
+Maipu,2,80,434
+Santo Domingo,2,80,435
+Area de Promocion el Triangulo,2,81,436
+Grand Bourg,2,81,437
+Ingeniero Adolfo Sourdeaux,2,81,438
+Ingeniero Pablo Nogues,2,81,439
+Los Polvorines,2,81,440
+Villa de Mayo,2,81,441
+Coronel Vidal,2,82,442
+General Piran,2,82,443
+La Armonia,2,82,444
+La Caleta,2,82,445
+Mar de Cobo,2,82,446
+Santa Clara del Mar,2,82,447
+Vivorata,2,82,448
+Marcos Paz,2,83,449
+Gowland,2,84,450
+Jorge Born,2,84,451
+Mercedes,2,84,452
+Libertad,2,85,453
+Mariano Acosta,2,85,454
+Merlo,2,85,455
+Pontevedra,2,85,456
+San Antonio de Padua,2,85,457
+Abbott,2,86,458
+San Miguel del Monte (est. Monte),2,86,459
+Balneario Sauce Grande,2,87,460
+Monte Hermoso,2,87,461
+Cuartel V,2,88,462
+Francisco Alvarez,2,88,463
+La Reja,2,88,464
+Moreno,2,88,465
+Paso del Rey,2,88,466
+Trujui,2,88,467
+Castelar,2,89,468
+El Palomar,2,89,469
+Haedo,2,89,470
+Moron,2,89,471
+Villa Sarmiento,2,89,472
+Jose Juan Almeyra,2,90,473
+Las Marianas,2,90,474
+Navarro,2,90,475
+Villa Moll (est. Moll),2,90,476
+Claraz,2,91,477
+Energia,2,91,478
+Juan N. Fernandez,2,91,479
+Necochea - Quequen,2,91,480
+Nicanor Olivera (est. la Dulce),2,91,481
+Hinojo,2,92,482
+Olavarria,2,92,483
+Sierra Chica,2,92,484
+Sierras Bayas,2,92,485
+Villa Alfredo Fortabat,2,92,486
+Bahia San Blas,2,93,487
+Carmen de Patagones,2,93,488
+Jose B. Casas,2,93,489
+Juan A. Pradere,2,93,490
+Stroeder,2,93,491
+Villalonga,2,93,492
+Capitan Castro,2,94,493
+Chiclana,2,94,494
+Francisco Madero,2,94,495
+Inocencio Sosa,2,94,496
+Juan Jose Paso,2,94,497
+Magdala,2,94,498
+Mones Cazon,2,94,499
+Nueva Plata,2,94,500
+Pehuajo,2,94,501
+San Bernardo (est. Guanaco),2,94,502
+San Esteban,2,94,503
+Bocayuva,2,95,504
+Pellegrini,2,95,505
+Acevedo,2,96,506
+Fontezuela,2,96,507
+Guerrico,2,96,508
+Juan A. de la Pena,2,96,509
+Juan Anchorena (est. Urquiza),2,96,510
+La Violeta,2,96,511
+Manuel Ocampo,2,96,512
+Mariano H. Alfonzo (est. San Patricio),2,96,513
+Pergamino,2,96,514
+Pinzon,2,96,515
+Rancagua,2,96,516
+Villa Angelica (est. el Socorro),2,96,517
+Villa San Jose,2,96,518
+Casalins,2,97,519
+Pila,2,97,520
+Fatima,2,98,521
+La Lonja,2,98,522
+Manuel Alberti,2,98,523
+Manzanares,2,98,524
+Maquinista F. Savio (oeste),2,98,525
+Pilar,2,98,526
+Presidente Derqui,2,98,527
+Santa Teresa,2,98,528
+Villa Astolfi,2,98,529
+Villa Rosa,2,98,530
+Zelaya,2,98,531
+Pinamar,2,99,532
+Guernica,2,100,533
+Bordenave,2,101,534
+Darregueira,2,101,535
+Puan,2,101,536
+San German,2,101,537
+Villa Iris,2,101,538
+Pipinas,2,102,539
+Punta Indio,2,102,540
+Veronica,2,102,541
+Bernal,2,103,542
+Bernal Oeste,2,103,543
+Don Bosco,2,103,544
+Ezpeleta,2,103,545
+Ezpeleta Oeste,2,103,546
+Quilmes,2,103,547
+Quilmes Oeste,2,103,548
+Villa la Florida,2,103,549
+El Paraiso,2,104,550
+Perez Millan,2,104,551
+Ramallo,2,104,552
+Villa Ramallo,2,104,553
+Rauch,2,105,554
+America,2,106,555
+Fortin Olavarria,2,106,556
+Gonzalez Moreno,2,106,557
+Sansinena,2,106,558
+Las Carabelas,2,107,559
+Rafael Obligado,2,107,560
+Rojas,2,107,561
+Carlos Beguerie,2,108,562
+Roque Perez,2,108,563
+Arroyo Corto,2,109,564
+Espartillar,2,109,565
+Goyena,2,109,566
+Pigue,2,109,567
+Saavedra,2,109,568
+Alvarez de Toledo,2,110,569
+Cazon,2,110,570
+Del Carril,2,110,571
+Saladillo,2,110,572
+Quenuma,2,111,573
+Salliquelo,2,111,574
+Arroyo Dulce,2,112,575
+Gahan,2,112,576
+Ines Indart,2,112,577
+La Invencible,2,112,578
+Salto,2,112,579
+Azcuenaga,2,113,580
+Cucullu,2,113,581
+San Andres de Giles,2,113,582
+Solis,2,113,583
+Villa Espil,2,113,584
+Villa Ruiz,2,113,585
+Duggan,2,114,586
+San Antonio de Areco,2,114,587
+Villa Lia,2,114,588
+Balneario San Cayetano,2,115,589
+Ochandio,2,115,590
+San Cayetano,2,115,591
+San Fernando,2,116,592
+Victoria,2,116,593
+Virreyes,2,116,594
+Acassuso,2,117,595
+Beccar,2,117,596
+Boulogne Sur Mer,2,117,597
+Martinez,2,117,598
+San Isidro,2,117,599
+Villa Adelina,2,117,600
+Bella Vista,2,118,601
+Campo de Mayo,2,118,602
+Muniz,2,118,603
+San Miguel,2,118,604
+Conesa,2,119,605
+Erezcano,2,119,606
+General Rojo,2,119,607
+San Nicolas de los Arroyos,2,119,608
+Pueblo Doyle,2,120,609
+Rio Tala,2,120,610
+San Pedro,2,120,611
+Santa Lucia,2,120,612
+Alejandro Korn,2,121,613
+Domselaar,2,121,614
+San Vicente,2,121,615
+General Rivas,2,122,616
+Suipacha,2,122,617
+De la Canal,2,123,618
+Desvio Aguirre,2,123,619
+Gardey,2,123,620
+Maria Ignacia (est. Vela),2,123,621
+Tandil,2,123,622
+Tapalque,2,124,623
+Benavidez,2,125,624
+Dique Lujan,2,125,625
+Don Torcuato Este,2,125,626
+Don Torcuato Oeste,2,125,627
+El Talar,2,125,628
+General Pacheco,2,125,629
+Los Troncos del Talar,2,125,630
+Nordelta,2,125,631
+Ricardo Rojas,2,125,632
+Rincon de Milberg,2,125,633
+Tigre,2,125,634
+General Conesa,2,126,635
+Villa Roch,2,126,636
+Saldungaray,2,127,637
+Sierra de la Ventana,2,127,638
+Tornquist,2,127,639
+Villa Serrana la Gruta,2,127,640
+Villa Ventana,2,127,641
+30 de Agosto,2,128,642
+Girodias,2,128,643
+La Carreta,2,128,644
+Trenque Lauquen,2,128,645
+Tronge,2,128,646
+Claromeco,2,129,647
+Copetonas,2,129,648
+Lin Calel,2,129,649
+Micaela Cascallares (est. Cascallares),2,129,650
+Orense,2,129,651
+Reta,2,129,652
+San Francisco de Bellocq,2,129,653
+San Mayol,2,129,654
+Tres Arroyos,2,129,655
+11 de Septiembre,2,130,656
+Caseros,2,130,657
+Churruca,2,130,658
+Ciudad Jardin Lomas del Palomar,2,130,659
+Ciudadela,2,130,660
+El Libertador,2,130,661
+Jose Ingenieros,2,130,662
+Loma Hermosa,2,130,663
+Martin Coronado,2,130,664
+Pablo Podesta,2,130,665
+Remedios de Escalada,2,130,666
+Saenz Pena,2,130,667
+Santos Lugares,2,130,668
+Villa Bosch (est. Juan Maria Bosch),2,130,669
+Villa Raffo,2,130,670
+Tres Lomas,2,131,671
+Carapachay,2,132,672
+Florida,2,132,673
+Florida Oeste,2,132,674
+La Lucila,2,132,675
+Munro,2,132,676
+Olivos,2,132,677
+Vicente Lopez,2,132,678
+Villa Martelli,2,132,679
+Villa Gesell,2,133,680
+Argerich,2,134,681
+Country los Medanos,2,134,682
+Juan Couste (est. Algarrobo),2,134,683
+Mayor Buratovich,2,134,684
+Medanos,2,134,685
+Pedro Luro,2,134,686
+Teniente Origone,2,134,687
+Escalada,2,135,688
+Lima,2,135,689
+Zarate,2,135,690
+Caba,1,136,691
+El Bolson,3,138,692
+El Rodeo,3,138,693
+La Puerta,3,138,694
+Las Chacritas,3,138,695
+Los Talas,3,138,696
+Los Varela,3,138,697
+Ancasti,3,139,698
+Aconquija,3,140,699
+Andalgala,3,140,700
+Chaquiago,3,140,701
+El Alamito,3,140,702
+El Potrero,3,140,703
+La Aguada,3,140,704
+La Mesada,3,140,705
+Antofagasta de la Sierra,3,141,706
+Belen,3,142,707
+El Durazno,3,142,708
+Hualfin,3,142,709
+Las Juntas,3,142,710
+Londres,3,142,711
+Capayan,3,143,712
+Chumbicha,3,143,713
+Colonia del Valle,3,143,714
+Colonia Nueva Coneta,3,143,715
+Coneta,3,143,716
+Huillapima,3,143,717
+Los Angeles,3,143,718
+Miraflores,3,143,719
+San Martin,3,143,720
+El Pantanillo,3,144,721
+San Fernando del Valle de Catamarca,3,144,722
+El Alto,3,145,723
+Tapso,3,145,724
+El Hueco,3,146,725
+La Carrera,3,146,726
+La Falda de San Antonio,3,146,727
+La Tercena,3,146,728
+San Antonio,3,146,729
+Villa las Pirquitas,3,146,730
+Icano,3,147,731
+Quiros,3,147,732
+Recreo,3,147,733
+La Merced,3,148,734
+La Vina,3,148,735
+Las Lajas,3,148,736
+Colpes,3,149,737
+Mutquin,3,149,738
+Poman,3,149,739
+Saujil,3,149,740
+Sijan,3,149,741
+Chanar Punco,3,150,742
+Famatanca,3,150,743
+La Loma,3,150,744
+Las Mojarras,3,150,745
+Loro Huasi,3,150,746
+Alijilan,3,151,747
+Banado de Ovanta,3,151,748
+Lavalle,3,151,749
+Los Altos,3,151,750
+Fiambala,3,152,751
+Tinogasta,3,152,752
+El Banado,3,153,753
+El Portezuelo,3,153,754
+Polcos,3,153,755
+Pozo del Mistol,3,153,756
+Sumalao,3,153,757
+Villa Dolores,3,153,758
+Gancedo,4,154,759
+General Capdevila,4,154,760
+General Pinedo,4,154,761
+Meson de Fierro,4,154,762
+Colonia Benitez,4,155,763
+Margarita Belen,4,155,764
+Hermoso Campo,4,156,765
+Itin,4,156,766
+Colonia Aborigen,4,1,767
+Machagai,4,1,768
+Las Brenas,4,2,769
+Concepcion del Bermejo,4,6,770
+Los Frentones,4,6,771
+Pampa del Infierno,4,6,772
+Taco Pozo,4,6,773
+General Vedia,4,157,774
+Isla del Cerrito,4,157,775
+La Leonesa,4,157,776
+Las Palmas,4,157,777
+Puerto Bermejo Nuevo,4,157,778
+Puerto Eva Peron,4,157,779
+Charata,4,28,780
+Presidencia Roque Saenz Pena,4,158,781
+Chorotis,4,159,782
+Santa Sylvina,4,159,783
+Corzuela,4,48,784
+La Escondida,4,160,785
+La Verde,4,160,786
+Lapachito,4,160,787
+Makalle,4,160,788
+El Espinillo,4,161,789
+El Sauzal,4,161,790
+El Sauzalito,4,161,791
+Fortin Lavalle,4,161,792
+Fuerte Esperanza,4,161,793
+Juan Jose Castelli,4,161,794
+Nueva Pompeya,4,161,795
+Villa Rio Bermejito,4,161,796
+Wichi,4,161,797
+Avia Terai,4,162,798
+Campo Largo,4,162,799
+Laguna Blanca,4,163,800
+Puerto Tirol,4,163,801
+Ciervo Petiso,4,164,802
+General Jose de San Martin,4,164,803
+La Eduvigis,4,164,804
+Laguna Limpia,4,164,805
+Pampa Almiron,4,164,806
+Pampa del Indio,4,164,807
+Presidencia Roca,4,164,808
+Tres Isletas,4,80,809
+Coronel Du Graty,4,165,810
+Enrique Urien,4,165,811
+Villa Angela,4,165,812
+La Clotilde,4,166,813
+La Tigra,4,166,814
+San Bernardo,4,166,815
+Presidencia de la Plaza,4,167,816
+Quitilipi,4,168,817
+Villa el Palmar,4,168,818
+Barranqueras,4,116,819
+Basail,4,116,820
+Fontana,4,116,821
+Puerto Vilelas,4,116,822
+Resistencia,4,116,823
+Samuhu,4,169,824
+Villa Berthet,4,169,825
+Capitan Solari,4,170,826
+Colonia Elisa,4,170,827
+Colonias Unidas,4,170,828
+Las Garcitas,4,170,829
+Charadai,4,171,830
+Arroyo Verde,5,172,831
+Puerto Madryn,5,172,832
+Puerto Piramide,5,172,833
+Quinta el Mirador,5,172,834
+Reserva Area Protegida el Doradillo,5,172,835
+Cholila,5,173,836
+El Hoyo,5,173,837
+Epuyen,5,173,838
+Gualjaina,5,173,839
+Lago Puelo,5,173,840
+Leleque,5,173,841
+Acceso Norte,5,174,842
+Comodoro Rivadavia,5,174,843
+Diadema Argentina,5,174,844
+Rada Tilly,5,174,845
+Camarones,5,44,846
+Garayalde,5,44,847
+Aldea Escolar,5,175,848
+Corcovado,5,175,849
+Esquel,5,175,850
+Los Cipreses,5,175,851
+Trevelin,5,175,852
+28 de Julio,5,176,853
+Dolavon,5,176,854
+Gaiman,5,176,855
+Blancuntre,5,177,856
+El Escorial,5,177,857
+Gastre,5,177,858
+Lagunita Salada,5,177,859
+Yala Laubat,5,177,860
+Aldea Epulef,5,178,861
+Carrenleufu,5,178,862
+Colan Conhue,5,178,863
+Paso del Sapo,5,178,864
+Tecka,5,178,865
+El Mirasol,5,179,866
+Las Plumas,5,179,867
+Cerro Condor,5,180,868
+Los Altares,5,180,869
+Paso de Indios,5,180,870
+Playa Magagna,5,181,871
+Playa Union,5,181,872
+Trelew,5,181,873
+Aldea Apeleg,5,182,874
+Aldea Beleiro,5,182,875
+Alto Rio Senguer,5,182,876
+Doctor Ricardo Rojas,5,182,877
+Facundo,5,182,878
+Lago Blanco,5,182,879
+Rio Mayo,5,182,880
+Buen Pasto,5,183,881
+Sarmiento,5,183,882
+Jose de San Martin,5,184,883
+Rio Pico,5,184,884
+Gan Gan,5,185,885
+Telsen,5,185,886
+Amboy,6,186,887
+Canada del Sauce,6,186,888
+Capilla Vieja,6,186,889
+El Corcovado - el Torreon,6,186,890
+Embalse,6,186,891
+La Cruz,6,186,892
+La Cumbrecita,6,186,893
+Las Bajadas,6,186,894
+Las Caleras,6,186,895
+Los Condores,6,186,896
+Los Molinos,6,186,897
+Los Reartes,6,186,898
+Rio de los Sauces,6,186,899
+San Ignacio (loteo San Javier),6,186,900
+Santa Monica,6,186,901
+Santa Rosa de Calamuchita,6,186,902
+Segunda Usina,6,186,903
+Villa Alpina,6,186,904
+Villa Amancay,6,186,905
+Villa Berna,6,186,906
+Villa Ciudad Parque los Reartes,6,186,907
+Villa Ciudad Parque los Reartes (1a. Seccion),6,186,908
+Villa del Dique,6,186,909
+Villa General Belgrano,6,186,910
+Villa Quillinzo,6,186,911
+Villa Rumipal,6,186,912
+Villa San Miguel,6,186,913
+Villa Yacanto,6,186,914
+Cordoba,6,144,915
+Agua de Oro,6,31,916
+Ascochinga,6,31,917
+Colonia Caroya,6,31,918
+El Manzano,6,31,919
+General Paz,6,31,920
+Jesus Maria,6,31,921
+La Calera,6,31,922
+La Granja,6,31,923
+Los Molles,6,31,924
+Mendiolaza,6,31,925
+Mi Granja,6,31,926
+Pajas Blancas,6,31,927
+Rio Ceballos,6,31,928
+Saldan,6,31,929
+Salsipuedes,6,31,930
+Unquillo,6,31,931
+Villa Allende,6,31,932
+Villa Cerro Azul,6,31,933
+Villa el Fachinal - Parque Norte - Guinazu Norte,6,31,934
+Villa los Llanos - Juarez Celman,6,31,935
+Alto de los Quebrachos,6,187,936
+Banado de Soto,6,187,937
+Cruz de Cana,6,187,938
+Cruz del Eje,6,187,939
+El Brete,6,187,940
+Guanaco Muerto,6,187,941
+La Banda,6,187,942
+La Batea,6,187,943
+La Higuera,6,187,944
+Las Playas,6,187,945
+Los Chanaritos,6,187,946
+Media Naranja,6,187,947
+Paso Viejo,6,187,948
+San Marcos Sierra,6,187,949
+Serrezuela,6,187,950
+Tuclame,6,187,951
+Villa de Soto,6,187,952
+Del Campillo,6,188,953
+Hipolito Bouchard,6,188,954
+Huinca Renanco,6,188,955
+Italo,6,188,956
+Pincen,6,188,957
+Santa Magdalena (est. Jovita),6,188,958
+Villa Huidobro,6,188,959
+Villa Valeria,6,188,960
+Arroyo Algodon,6,58,961
+Arroyo Cabral,6,58,962
+Ausonia,6,58,963
+Chazon,6,58,964
+Etruria,6,58,965
+La Laguna,6,58,966
+La Palestina,6,58,967
+La Playosa,6,58,968
+Pasco,6,58,969
+Silvio Pellico,6,58,970
+Ticino,6,58,971
+Tio Pujio,6,58,972
+Villa Maria,6,58,973
+Chuna,6,189,974
+Copacabana,6,189,975
+Dean Funes,6,189,976
+Esquina del Alambre,6,189,977
+Olivares de San Nicolas,6,189,978
+Quilino,6,189,979
+Villa Quilino,6,189,980
+Alejandro Roca (est. Alejandro),6,190,981
+Bengolea,6,190,982
+Carnerillo,6,190,983
+Charras,6,190,984
+General Cabrera,6,190,985
+General Deheza,6,190,986
+Huanchillas,6,190,987
+La Carlota,6,190,988
+Los Cisnes,6,190,989
+Olaeta,6,190,990
+Santa Eufemia,6,190,991
+Ucacha,6,190,992
+Villa Reduccion,6,190,993
+Alejo Ledesma,6,191,994
+Arias,6,191,995
+Camilo Aldao,6,191,996
+Capitan General Bernardo O'higgins,6,191,997
+Cavanagh,6,191,998
+Colonia Italiana,6,191,999
+Corral de Bustos,6,191,1000
+Cruz Alta,6,191,1001
+General Baldissera,6,191,1002
+General Roca,6,191,1003
+Guatimozin,6,191,1004
+Inriville,6,191,1005
+Isla Verde,6,191,1006
+Leones,6,191,1007
+Los Surgentes,6,191,1008
+Marcos Juarez,6,191,1009
+Monte Buey,6,191,1010
+Noetinger,6,191,1011
+Saira,6,191,1012
+Cienaga del Coro,6,192,1013
+El Chacho,6,192,1014
+Estancia de Guadalupe,6,192,1015
+La Playa,6,192,1016
+San Carlos Minas,6,192,1017
+Tosno,6,192,1018
+Chancani,6,193,1019
+Los Talares,6,193,1020
+Salsacate,6,193,1021
+San Geronimo,6,193,1022
+Tala Canada,6,193,1023
+Taninga,6,193,1024
+Villa de Pocho,6,193,1025
+General Levalle,6,194,1026
+La Cesira,6,194,1027
+Laboulaye,6,194,1028
+Leguizamon,6,194,1029
+Melo,6,194,1030
+Rio Bamba,6,194,1031
+Rosales,6,194,1032
+Serrano,6,194,1033
+Bialet Masse,6,195,1034
+Cabalango,6,195,1035
+Capilla del Monte,6,195,1036
+Casa Grande,6,195,1037
+Charbonier,6,195,1038
+Cosquin,6,195,1039
+Cuesta Blanca,6,195,1040
+Estancia Vieja,6,195,1041
+Huerta Grande,6,195,1042
+La Falda,6,195,1043
+Las Jarillas,6,195,1044
+Los Cocos,6,195,1045
+Mayu Sumaj,6,195,1046
+San Antonio de Arredondo,6,195,1047
+San Roque,6,195,1048
+Santa Maria de Punilla,6,195,1049
+Tala Huasi,6,195,1050
+Tanti,6,195,1051
+Valle Hermoso,6,195,1052
+Villa Carlos Paz,6,195,1053
+Villa Giardino,6,195,1054
+Villa Parque Siquiman,6,195,1055
+Villa Rio Icho Cruz,6,195,1056
+Villa Santa Cruz del Lago,6,195,1057
+Achiras,6,196,1058
+Adelia Maria,6,196,1059
+Alcira (est. Gigena),6,196,1060
+Alpa Corral,6,196,1061
+Berrotaran,6,196,1062
+Bulnes,6,196,1063
+Chajan,6,196,1064
+Chucul,6,196,1065
+Coronel Baigorria,6,196,1066
+Coronel Moldes,6,196,1067
+Elena,6,196,1068
+La Carolina,6,196,1069
+Las Acequias,6,196,1070
+Las Albahacas,6,196,1071
+Las Higueras,6,196,1072
+Las Penas,6,196,1073
+Las Vertientes,6,196,1074
+Rio Cuarto,6,196,1075
+Sampacho,6,196,1076
+San Basilio,6,196,1077
+Santa Catalina (est. Holmberg),6,196,1078
+Vicuna Mackenna,6,196,1079
+Villa el Chacay,6,196,1080
+Washington,6,196,1081
+Canada de Machado,6,197,1082
+Diego de Rojas,6,197,1083
+Esquina,6,197,1084
+La para,6,197,1085
+La Quinta,6,197,1086
+Montecristo,6,197,1087
+Obispo Trejo,6,197,1088
+Piquillin,6,197,1089
+Rio Primero,6,197,1090
+Santa Rosa de Rio Primero,6,197,1091
+Villa Fontana,6,197,1092
+Cerro Colorado,6,198,1093
+Rayo Cortado,6,198,1094
+Sebastian Elcano,6,198,1095
+Villa de Maria,6,198,1096
+Calchin,6,199,1097
+Capilla del Carmen,6,199,1098
+Carrilobo,6,199,1099
+Colazo,6,199,1100
+Costasacate,6,199,1101
+Laguna Larga,6,199,1102
+Las Junturas,6,199,1103
+Luque,6,199,1104
+Manfredi,6,199,1105
+Oncativo,6,199,1106
+Pozo del Molle,6,199,1107
+Rincon,6,199,1108
+Rio Segundo,6,199,1109
+Santiago Temple,6,199,1110
+Villa del Rosario,6,199,1111
+Arroyo los Patos,6,200,1112
+El Huayco,6,200,1113
+La Cortadera,6,200,1114
+Las Calles,6,200,1115
+Las Rabonas,6,200,1116
+Mina Clavero,6,200,1117
+Nono,6,200,1118
+San Huberto,6,200,1119
+San Lorenzo,6,200,1120
+Sauce Arriba,6,200,1121
+Villa Cura Brochero,6,200,1122
+Conlara,6,201,1123
+Cruz Cana,6,201,1124
+Dos Arroyos,6,201,1125
+La Paz,6,201,1126
+La Poblacion,6,201,1127
+La Ramada,6,201,1128
+La Travesia,6,201,1129
+Las Chacras,6,201,1130
+Las Tapias,6,201,1131
+Loma Bola,6,201,1132
+Los Cerrillos,6,201,1133
+Los Hornillos,6,201,1134
+Los Romeros,6,201,1135
+Luyaba,6,201,1136
+Quebracho Ladeado,6,201,1137
+Quebrada de los Pozos,6,201,1138
+San Javier y Yacanto,6,201,1139
+Villa de las Rosas,6,201,1140
+Villa la Vina,6,201,1141
+Alicia,6,202,1142
+Altos de Chipion,6,202,1143
+Arroyito,6,202,1144
+Brinkmann,6,202,1145
+Colonia Anita,6,202,1146
+Colonia las Pichanas,6,202,1147
+Colonia Marina,6,202,1148
+Colonia San Bartolome,6,202,1149
+Colonia Valtelina,6,202,1150
+Colonia Vignaud,6,202,1151
+Devoto,6,202,1152
+El Aranado,6,202,1153
+El Fortin,6,202,1154
+El Fuertecito,6,202,1155
+El Tio,6,202,1156
+Estacion Luxardo,6,202,1157
+Freyre,6,202,1158
+La Francia,6,202,1159
+La Paquita,6,202,1160
+La Tordilla,6,202,1161
+Las Varas,6,202,1162
+Las Varillas,6,202,1163
+Marull,6,202,1164
+Morteros,6,202,1165
+Plaza Luxardo,6,202,1166
+Plaza San Francisco,6,202,1167
+Portena,6,202,1168
+Quebracho Herrado,6,202,1169
+Sacanta,6,202,1170
+San Francisco,6,202,1171
+Saturnino Maria Laspiur,6,202,1172
+Seeber,6,202,1173
+Toro Pujio,6,202,1174
+Transito,6,202,1175
+Villa Concepcion del Tio,6,202,1176
+Villa del Transito,6,202,1177
+Villa San Esteban,6,202,1178
+Alta Gracia,6,150,1179
+Anisacate,6,150,1180
+Campos del Virrey,6,150,1181
+Despenaderos,6,150,1182
+Jose de la Quintana,6,150,1183
+La Donosa,6,150,1184
+La Paisanita,6,150,1185
+Malagueno,6,150,1186
+Potrero de Garay,6,150,1187
+San Nicolas,6,150,1188
+Toledo,6,150,1189
+Valle de Anisacate,6,150,1190
+Villa Ciudad de America (loteo Diego de Rojas),6,150,1191
+Villa del Prado,6,150,1192
+Villa la Bolsa,6,150,1193
+Villa los Aromos,6,150,1194
+Villa Parque Santa Ana,6,150,1195
+Villa San Isidro - Jose de la Quintana,6,150,1196
+Caminiaga,6,203,1197
+San Francisco del Chanar,6,203,1198
+Almafuerte,6,204,1199
+Colonia Almada,6,204,1200
+Corralito,6,204,1201
+Dalmacio Velez,6,204,1202
+General Fotheringham,6,204,1203
+Hernando,6,204,1204
+James Craik,6,204,1205
+Las Isletillas,6,204,1206
+Las Perdices,6,204,1207
+Oliva,6,204,1208
+Pampayasta Norte,6,204,1209
+Pampayasta Sur,6,204,1210
+Punta del Agua,6,204,1211
+Rio Tercero,6,204,1212
+Tancacha,6,204,1213
+Villa Ascasubi,6,204,1214
+Sinsacate,6,205,1215
+Villa del Totoral,6,205,1216
+Las Arrias,6,206,1217
+Rosario del Saladillo,6,206,1218
+San Jose de la Dormida,6,206,1219
+San Pedro Norte,6,206,1220
+Villa Tulumba,6,206,1221
+Alto Alegre,6,207,1222
+Ballesteros,6,207,1223
+Ballesteros Sur,6,207,1224
+Bell Ville,6,207,1225
+Canals,6,207,1226
+Chilibroste,6,207,1227
+Cintra,6,207,1228
+Colonia Bismarck,6,207,1229
+Idiazabal,6,207,1230
+Justiniano Posse,6,207,1231
+Laborde,6,207,1232
+Monte Maiz,6,207,1233
+Morrison,6,207,1234
+Ordonez,6,207,1235
+Pascanas,6,207,1236
+Pueblo Italiano,6,207,1237
+Ramon J. Carcano,6,207,1238
+San Antonio de Litin,6,207,1239
+San Marcos,6,207,1240
+Viamonte,6,207,1241
+Wenceslao Escalante,6,207,1242
+Beron de Astrada,7,209,1243
+Corrientes,7,144,1244
+Laguna Brava,7,144,1245
+Riachuelo,7,144,1246
+Concepcion,7,210,1247
+Tabay,7,210,1248
+Tatacua,7,210,1249
+Cazadores Correntinos,7,211,1250
+Curuzu Cuatia,7,211,1251
+Perugorria,7,211,1252
+El Sombrero,7,212,1253
+Empedrado,7,212,1254
+Pueblo Libertador,7,213,1255
+Alvear,7,46,1256
+Ita Ibate,7,54,1257
+Lomas de Vallejos,7,54,1258
+Nuestra Senora del Rosario de Caa Cati,7,54,1259
+Palmar Grande,7,54,1260
+Colonia Carolina,7,214,1261
+Goya,7,214,1262
+Itati,7,215,1263
+Ramada Paso,7,215,1264
+Colonia Liebig's,7,64,1265
+Ituzaingo,7,64,1266
+Villa Olivari,7,64,1267
+Gobernador Juan E. Martinez,7,216,1268
+Mburucuya,7,217,1269
+Felipe Yofre,7,84,1270
+Mariano I. Loza (est. Justino Solari),7,84,1271
+Colonia Libertad,7,218,1272
+Estacion Libertad,7,218,1273
+Juan Pujol,7,218,1274
+Mocoreta,7,218,1275
+Monte Caseros,7,218,1276
+Parada Acuna,7,218,1277
+Parada Labougle,7,218,1278
+Bonpland,7,219,1279
+Parada Pucheta,7,219,1280
+Paso de los Libres,7,219,1281
+Saladas,7,220,1282
+Paso de la Patria,7,221,1283
+San Cosme,7,221,1284
+Santa Ana,7,221,1285
+San Luis del Palmar,7,222,1286
+Loreto,7,118,1287
+Chavarria,7,224,1288
+Pedro R. Fernandez (est. Manuel F. Mantilla),7,224,1289
+Gobernador Igr. Valentin Virasoro,7,225,1290
+Jose Rafael Gomez,7,225,1291
+Santo Tome,7,225,1292
+Sauce,7,226,1293
+Arroyo Baru,8,31,1294
+Colonia Hugues,8,31,1295
+El Brillante,8,31,1296
+Hambis,8,31,1297
+Hocker,8,31,1298
+La Clarita,8,31,1299
+Pueblo Cazes,8,31,1300
+Pueblo Liebig's,8,31,1301
+Ubajay,8,31,1302
+Clodomiro Ledesma,8,227,1303
+Concordia,8,227,1304
+La Criolla,8,227,1305
+Los Charruas,8,227,1306
+Pedernal,8,227,1307
+Aldea Brasilera,8,228,1308
+Aldea Protestante,8,228,1309
+Aldea Spatzenkutter,8,228,1310
+Aldea Valle Maria,8,228,1311
+Colonia Ensayo,8,228,1312
+Diamante,8,228,1313
+Estacion Camps,8,228,1314
+General Racedo,8,228,1315
+General Ramirez,8,228,1316
+Strobel,8,228,1317
+Villa Libertador San Martin,8,228,1318
+Chajari,8,229,1319
+Colonia Alemana,8,229,1320
+Colonia Ensanche Sauce,8,229,1321
+Colonia la Argentina,8,229,1322
+Colonia Pena,8,229,1323
+Colonia Santa Maria,8,229,1324
+Federacion,8,229,1325
+Los Conquistadores,8,229,1326
+San Jaime de la Frontera,8,229,1327
+San Ramon,8,229,1328
+Conscripto Bernardi,8,230,1329
+El Cimarron,8,230,1330
+Federal,8,230,1331
+Nueva Vizcaya,8,230,1332
+Sauce de Luna,8,230,1333
+San Jose de Feliciano,8,231,1334
+San Victor,8,231,1335
+General Galarza,8,232,1336
+Gualeguay,8,232,1337
+Aldea San Antonio,8,233,1338
+Aldea San Juan,8,233,1339
+Enrique Carbo,8,233,1340
+Faustino M. Parera,8,233,1341
+Gilbert,8,233,1342
+Gualeguaychu,8,233,1343
+Larroque,8,233,1344
+Pueblo General Belgrano,8,233,1345
+Urdinarrain,8,233,1346
+Ceibas,8,234,1347
+Ibicuy,8,234,1348
+Villa Paranacito,8,234,1349
+Bovril,8,147,1350
+Colonia Avigdor,8,147,1351
+El Solar,8,147,1352
+Piedras Blancas,8,147,1353
+Pueblo Arrua (est. Alcaraz),8,147,1354
+San Gustavo,8,147,1355
+Santa Elena,8,147,1356
+Aranguren,8,235,1357
+Betbeder,8,235,1358
+Don Cristobal,8,235,1359
+Febre,8,235,1360
+Hernandez,8,235,1361
+Lucas Gonzalez,8,235,1362
+Nogoya,8,235,1363
+Xx de Setiembre,8,235,1364
+Aldea Maria Luisa,8,236,1365
+Aldea San Rafael,8,236,1366
+Cerrito,8,236,1367
+Colonia Avellaneda,8,236,1368
+Crespo,8,236,1369
+Crucesitas Septima Seccion,8,236,1370
+El Palenque,8,236,1371
+El Pingo,8,236,1372
+El Ramblon,8,236,1373
+Hasenkamp,8,236,1374
+Hernandarias,8,236,1375
+La Picada,8,236,1376
+Las Tunas,8,236,1377
+Maria Grande,8,236,1378
+Oro Verde,8,236,1379
+Parana,8,236,1380
+Pueblo Brugo,8,236,1381
+San Benito,8,236,1382
+Sauce Montrull,8,236,1383
+Segui,8,236,1384
+Tabossi,8,236,1385
+Viale,8,236,1386
+Villa Urquiza,8,236,1387
+General Campos,8,237,1388
+San Salvador,8,237,1389
+Durazno,8,238,1390
+Gobernador Echague,8,238,1391
+Gobernador Mansilla,8,238,1392
+Gobernador Sola,8,238,1393
+Las Guachas,8,238,1394
+Macia,8,238,1395
+Rosario del Tala,8,238,1396
+1o de Mayo,8,239,1397
+Basavilbaso,8,239,1398
+Colonia Elia,8,239,1399
+Concepcion del Uruguay,8,239,1400
+Estancia San Pedro,8,239,1401
+Herrera,8,239,1402
+Las Moscas,8,239,1403
+Libaros,8,239,1404
+Pronunciamiento,8,239,1405
+Rocamora,8,239,1406
+Santa Anita,8,239,1407
+Villa Mantero,8,239,1408
+Villa San Justo,8,239,1409
+Villa San Marcial (est. Gobernador Urquiza),8,239,1410
+Molino Doll,8,240,1411
+Rincon de Nogoya,8,240,1412
+Estacion Raices,8,241,1413
+Ingeniero Miguel Sajaroff,8,241,1414
+Jubileo,8,241,1415
+Paso de la Laguna,8,241,1416
+Villa Clara,8,241,1417
+Villa Dominguez,8,241,1418
+Villaguay,8,241,1419
+Fortin Soledad,9,157,1420
+Guadalcazar,9,157,1421
+La Rinconada,9,157,1422
+Laguna Yema,9,157,1423
+Lamadrid,9,157,1424
+Los Chiriguanos,9,157,1425
+Pozo de Maza,9,157,1426
+Pozo del Mortero,9,157,1427
+Vaca Perdida,9,157,1428
+Colonia Pastoril,9,242,1429
+Formosa,9,242,1430
+Gran Guardia,9,242,1431
+Mariano Boedo,9,242,1432
+Mojon de Fierro,9,242,1433
+San Hilario,9,242,1434
+Villa del Carmen,9,242,1435
+Banco Payagua,9,243,1436
+General Lucio Victorio Mansilla,9,243,1437
+Herradura,9,243,1438
+San Francisco de Laishi,9,243,1439
+Tatane,9,243,1440
+Villa Escolar,9,243,1441
+Ingeniero Guillermo N. Juarez,9,244,1442
+Bartolome de las Casas,9,245,1443
+Comandante Fontana,9,245,1444
+Estanislao del Campo,9,245,1445
+Fortin Cabo 1o Lugones,9,245,1446
+Fortin Sargento 1o Leyes,9,245,1447
+Ibarreta,9,245,1448
+Juan G. Bazan,9,245,1449
+Las Lomitas,9,245,1450
+Posta Cambio Zalazar,9,245,1451
+Pozo del Tigre,9,245,1452
+San Martin I,9,245,1453
+San Martin Ii,9,245,1454
+Subteniente Perin,9,245,1455
+Villa General Guemes,9,245,1456
+Villa General Manuel Belgrano,9,245,1457
+Buena Vista,9,246,1458
+Laguna Gallo,9,246,1459
+Mision Tacaagle,9,246,1460
+Tres Lagunas,9,246,1461
+Clorinda,9,247,1462
+Laguna Naick-neck,9,247,1463
+Palma Sola,9,247,1464
+Puerto Pilcomayo,9,247,1465
+Riacho He-he,9,247,1466
+Riacho Negro,9,247,1467
+Siete Palmas,9,247,1468
+Colonia Campo Villafane,9,248,1469
+El Colorado,9,248,1470
+Palo Santo,9,248,1471
+Pirane,9,248,1472
+Villa Kilometro 213,9,248,1473
+El Potrillo,9,249,1474
+El Quebracho,9,249,1475
+General Mosconi,9,249,1476
+Abra Pampa,10,250,1477
+Puesto del Marquez,10,250,1478
+Dr. Manuel Belgrano,10,251,1479
+Guerrero,10,251,1480
+Leon,10,251,1481
+Lozano (ap. Chani),10,251,1482
+San Salvador de Jujuy (est. Jujuy),10,251,1483
+Yala,10,251,1484
+Aguas Calientes,10,252,1485
+El Carmen,10,252,1486
+Manantiales,10,252,1487
+Monterrico,10,252,1488
+Pampa Blanca,10,252,1489
+Perico,10,252,1490
+Puesto Viejo,10,252,1491
+El Aguilar,10,253,1492
+Hipolito Yrigoyen (est. Iturbe),10,253,1493
+Humahuaca,10,253,1494
+Tres Cruces,10,253,1495
+Uquia (est. Senador Perez),10,253,1496
+Caimancito,10,254,1497
+Calilegua,10,254,1498
+Chalican,10,254,1499
+Fraile Pintado,10,254,1500
+Libertador General San Martin (est. Ledesma),10,254,1501
+Yuto,10,254,1502
+Carahunco,10,255,1503
+Centro Forestal,10,255,1504
+Palpala (est. Gral. Manuel N. Savio),10,255,1505
+Coyaguaima,10,256,1506
+Lagunillas de Farallon,10,256,1507
+Liviara,10,256,1508
+Loma Blanca,10,256,1509
+Nuevo Pirquitas,10,256,1510
+Orosmayo,10,256,1511
+Rinconada,10,256,1512
+El Ceibal,10,257,1513
+Los Alisos,10,257,1514
+Don Emilio,10,120,1515
+La Esperanza,10,120,1516
+La Mendieta,10,120,1517
+Rosario de Rio Grande,10,120,1518
+San Lucas,10,120,1519
+San Pedro (est. San Pedro de Jujuy),10,120,1520
+El Fuerte,10,258,1521
+El Piquete,10,258,1522
+Santa Clara,10,258,1523
+Vinalito,10,258,1524
+Casira,10,259,1525
+Cienega,10,259,1526
+Cieneguillas,10,259,1527
+Cusi Cusi,10,259,1528
+Misarrumi,10,259,1529
+Oratorio,10,259,1530
+Paicone,10,259,1531
+Santa Catalina,10,259,1532
+Catua,10,260,1533
+Coranzuli,10,260,1534
+El Toro,10,260,1535
+Huancar,10,260,1536
+Jama,10,260,1537
+Mina Providencia,10,260,1538
+Olacapato,10,260,1539
+Olaroz Chico,10,260,1540
+Pastos Chicos,10,260,1541
+Puesto Sey,10,260,1542
+San Juan de Quillaques,10,260,1543
+Susques,10,260,1544
+Huacalera,10,261,1545
+Maimara,10,261,1546
+Tilcara,10,261,1547
+Barcena,10,262,1548
+El Moreno,10,262,1549
+Purmamarca,10,262,1550
+Tumbaya,10,262,1551
+Volcan,10,262,1552
+Barrios,10,264,1553
+Cangrejillos,10,264,1554
+La Intermedia,10,264,1555
+La Quiaca,10,264,1556
+Pumahuasi,10,264,1557
+Yavi Chico,10,264,1558
+Doblas,11,265,1559
+Macachin,11,265,1560
+Miguel Riglos,11,265,1561
+Rolon,11,265,1562
+Tomas M. Anchorena,11,265,1563
+Anzoategui,11,266,1564
+La Adela,11,266,1565
+Anguil,11,144,1566
+Catrilo,11,267,1567
+La Gloria,11,267,1568
+Lonquimay,11,267,1569
+Uriburu,11,267,1570
+Santa Isabel,11,268,1571
+Bernardo Larroude,11,269,1572
+Ceballos,11,269,1573
+Coronel Hilario Lagos (est. Aguas Buenas),11,269,1574
+Intendente Alvear,11,269,1575
+Sarah,11,269,1576
+Vertiz,11,269,1577
+La Humada,11,270,1578
+Conhelo,11,271,1579
+Eduardo Castex,11,271,1580
+Mauricio Mayer,11,271,1581
+Monte Nievas,11,271,1582
+Rucanelo,11,271,1583
+Winifreda,11,271,1584
+Gobernador Duval,11,272,1585
+Puelches,11,272,1586
+Alpachiri,11,273,1587
+General Manuel J. Campos,11,273,1588
+Guatrache,11,273,1589
+Peru,11,273,1590
+Abramo,11,274,1591
+Bernasconi,11,274,1592
+General San Martin (est. Villa Alba),11,274,1593
+Jacinto Arauz,11,274,1594
+Cuchillo Co,11,275,1595
+La Reforma,11,276,1596
+Limay Mahuida,11,276,1597
+Carro Quemado,11,277,1598
+Loventue,11,277,1599
+Luan Toro,11,277,1600
+Telen,11,277,1601
+Victorica,11,277,1602
+Agustoni,11,278,1603
+Dorila,11,278,1604
+General Pico,11,278,1605
+Speluzzi,11,278,1606
+Casa de Piedra,11,279,1607
+Puelen,11,279,1608
+Colonia Baron,11,280,1609
+Miguel Cane,11,280,1610
+Quemu Quemu,11,280,1611
+Relmo,11,280,1612
+Villa Mirasol,11,280,1613
+Caleufu,11,281,1614
+La Maruja,11,281,1615
+Parera,11,281,1616
+Quetrequen,11,281,1617
+Rancul,11,281,1618
+Adolfo Van Praet,11,282,1619
+Alta Italia,11,282,1620
+Damian Maisonave (est. Simson),11,282,1621
+Embajador Martini,11,282,1622
+Falucho,11,282,1623
+Ingeniero Luiggi,11,282,1624
+Ojeda,11,282,1625
+Realico,11,282,1626
+Toay,11,283,1627
+Arata,11,284,1628
+Metileo,11,284,1629
+Trenel,11,284,1630
+Ataliva Roca,11,285,1631
+Chacharramendi,11,285,1632
+General Acha,11,285,1633
+Quehue,11,285,1634
+Unanue,11,285,1635
+Aimogasta,12,286,1636
+Estacion Mazan,12,286,1637
+Villa Mazan,12,286,1638
+La Rioja,12,144,1639
+Aminga,12,287,1640
+Anillaco,12,287,1641
+Anjullon,12,287,1642
+Chuquis,12,287,1643
+Pinchas,12,287,1644
+Santa Vera Cruz,12,287,1645
+Chamical,12,288,1646
+Chilecito,12,289,1647
+Colonia Anguinan,12,289,1648
+Colonia Vichigasta,12,289,1649
+La Puntilla,12,289,1650
+Los Sarmientos,12,289,1651
+Malligasta,12,289,1652
+Nonogasta,12,289,1653
+Santa Florentina,12,289,1654
+Sanogasta,12,289,1655
+Tilimuqui,12,289,1656
+Vichigasta,12,289,1657
+Aicuna,12,290,1658
+Guandacol,12,290,1659
+Los Palacios,12,290,1660
+Pagancillo,12,290,1661
+Villa Union,12,290,1662
+Angulos,12,291,1663
+Campanas,12,291,1664
+Chanarmuyo,12,291,1665
+Famatina,12,291,1666
+La Cuadra,12,291,1667
+Pituil,12,291,1668
+Santa Cruz,12,291,1669
+Punta de los Llanos,12,292,1670
+Tama,12,292,1671
+Chanar,12,48,1672
+Olta,12,48,1673
+Malanzan,12,293,1674
+Nacate,12,293,1675
+Portezuelo,12,293,1676
+Villa Castelli,12,294,1677
+Ambil,12,295,1678
+Milagro,12,295,1679
+Santa Rita de Catuna,12,295,1680
+Ulapes,12,58,1681
+Amana,12,162,1682
+Patquia,12,162,1683
+Chepes,12,296,1684
+Desiderio Tello,12,296,1685
+Alpasinche,12,297,1686
+Andolucas,12,297,1687
+Chaupihuasi,12,297,1688
+Cuipan,12,297,1689
+Las Talas,12,297,1690
+Los Robles,12,297,1691
+Salicas - San Blas,12,297,1692
+San Blas,12,297,1693
+Shaqui,12,297,1694
+Villa Sanagasta,12,298,1695
+Villa San Jose de Vinchina,12,299,1696
+Mendoza,13,144,1697
+Bowen,13,46,1698
+Carmensa,13,46,1699
+Gobernador Benegas,13,300,1700
+Godoy Cruz,13,300,1701
+Las Tortugas,13,300,1702
+San Francisco del Monte,13,300,1703
+Villa Hipodromo,13,300,1704
+Bermejo,13,301,1705
+Colonia Segovia,13,301,1706
+Dorrego,13,301,1707
+Guaymallen,13,301,1708
+La Primavera,13,301,1709
+Los Corralitos,13,301,1710
+Puente de Hierro,13,301,1711
+Rodeo de la Cruz,13,301,1712
+Ingeniero Giagnoni,13,66,1713
+La Colonia,13,66,1714
+Los Barriales,13,66,1715
+Medrano,13,66,1716
+Phillips,13,66,1717
+Rodriguez Pena,13,66,1718
+Blanco Encalada,13,302,1719
+El Challao,13,302,1720
+Las Heras,13,302,1721
+Papagayos,13,302,1722
+Uspallata,13,302,1723
+3 de Mayo,13,216,1724
+Barrio los Olivos,13,216,1725
+Costa de Araujo,13,216,1726
+El Vergel,13,216,1727
+Ingeniero Gustavo Andre,13,216,1728
+Jocoli,13,216,1729
+Jocoli Viejo,13,216,1730
+Villa Tulumaya,13,216,1731
+Agrelo,13,303,1732
+Barrio Perdriel Iv,13,303,1733
+Cacheuta,13,303,1734
+Carrodilla,13,303,1735
+Chacras de Coria,13,303,1736
+Costa Flores,13,303,1737
+El Carrizal,13,303,1738
+El Salto,13,303,1739
+Las Compuertas,13,303,1740
+Las Vegas,13,303,1741
+Lujan de Cuyo,13,303,1742
+Mayor Drummond,13,303,1743
+Perdriel,13,303,1744
+Potrerillos,13,303,1745
+Ugarteche,13,303,1746
+Vistalba,13,303,1747
+Barrancas,13,80,1748
+Barrio Jesus de Nazaret,13,80,1749
+Cruz de Piedra,13,80,1750
+El Pedregal,13,80,1751
+Fray Luis Beltran,13,80,1752
+General Gutierrez,13,80,1753
+Luzuriaga,13,80,1754
+Rodeo del Medio,13,80,1755
+Russell,13,80,1756
+Villa Teresa,13,80,1757
+Las Lenas,13,304,1758
+Malargue,13,304,1759
+Andrade,13,106,1760
+Barrio Cooperativa los Campamentos,13,106,1761
+Barrio Rivadavia,13,106,1762
+El Mirador,13,106,1763
+La Central,13,106,1764
+La Florida,13,106,1765
+La Libertad,13,106,1766
+Los Arboles,13,106,1767
+Los Campamentos,13,106,1768
+Mundo Nuevo,13,106,1769
+Reduccion de Abajo,13,106,1770
+Rivadavia,13,106,1771
+Santa Maria de Oro,13,106,1772
+Barrio el Cepillo,13,305,1773
+Eugenio Bustos,13,305,1774
+La Consulta,13,305,1775
+Pareditas,13,305,1776
+San Carlos,13,305,1777
+Alto Salvador,13,223,1778
+Alto Verde,13,223,1779
+Chapanay,13,223,1780
+El Espino,13,223,1781
+Montecaseros,13,223,1782
+Nueva California,13,223,1783
+Palmira,13,223,1784
+Tres Portenas,13,223,1785
+Capitan Montoya,13,306,1786
+Cuadro Benegas,13,306,1787
+El Nihuil,13,306,1788
+Goudge,13,306,1789
+Jaime Prats,13,306,1790
+Las Malvinas,13,306,1791
+Monte Coman,13,306,1792
+Rama Caida,13,306,1793
+Real del Padre,13,306,1794
+Salto de las Rosas,13,306,1795
+San Rafael,13,306,1796
+Villa Atuel,13,306,1797
+Villa Atuel Norte,13,306,1798
+Barrio 12 de Octubre,13,151,1799
+La Dormida,13,151,1800
+Las Catitas,13,151,1801
+Campo los Andes,13,307,1802
+Colonia las Rosas,13,307,1803
+Los Sauces,13,307,1804
+Tunuyan,13,307,1805
+Vista Flores,13,307,1806
+Cordon del Plata,13,308,1807
+La Arboleda,13,308,1808
+Tupungato,13,308,1809
+Alba Posse,14,1,1810
+Alicia Baja,14,1,1811
+Colonia Alicia,14,1,1812
+Colonia Aurora,14,1,1813
+San Francisco de Asis,14,1,1814
+Santa Rita,14,1,1815
+Apostoles,14,309,1816
+Azara,14,309,1817
+Aristobulo del Valle,14,310,1818
+Campo Grande,14,310,1819
+Dos de Mayo Nucleo I,14,310,1820
+Dos de Mayo Nucleo Iii,14,310,1821
+Pueblo Illia,14,310,1822
+Salto Encantado,14,310,1823
+Candelaria,14,311,1824
+Martires,14,311,1825
+Profundidad,14,311,1826
+Garupa,14,144,1827
+Nemesio Parma,14,144,1828
+Posadas,14,144,1829
+Concepcion de la Sierra,14,210,1830
+La Corita,14,210,1831
+Colonia Victoria,14,312,1832
+Eldorado,14,312,1833
+Puerto Pinares,14,312,1834
+Santiago de Liniers,14,312,1835
+Bernardo de Irigoyen,14,313,1836
+Dos Hermanas,14,313,1837
+El Soberbio,14,314,1838
+Fracran,14,314,1839
+Esperanza,14,315,1840
+Puerto Iguazu,14,315,1841
+Wanda,14,315,1842
+Arroyo del Medio,14,73,1843
+Caa - Yari,14,73,1844
+Cerro Azul,14,73,1845
+Gobernador Lopez,14,73,1846
+Olegario V. Andrade,14,73,1847
+Villa Libertad (municipio Leandro N. Alem),14,73,1848
+Capiovi,14,316,1849
+El Alcazar,14,316,1850
+Garuhape,14,316,1851
+Puerto Leoni,14,316,1852
+Puerto Rico,14,316,1853
+Ruiz de Montoya,14,316,1854
+Montecarlo,14,317,1855
+Puerto Piray,14,317,1856
+Taruma,14,317,1857
+Alberdi,14,318,1858
+Campo Ramon,14,318,1859
+Campo Viera,14,318,1860
+Guarani,14,318,1861
+Los Helechos,14,318,1862
+Obera,14,318,1863
+Panambi,14,318,1864
+Panambi Kilometro 15,14,318,1865
+Panambi Kilometro 8,14,318,1866
+Villa Bonita,14,318,1867
+Colonia Polana,14,319,1868
+Corpus,14,319,1869
+General Urquiza,14,319,1870
+Gobernador Roca,14,319,1871
+Helvecia,14,319,1872
+Hipolito Yrigoyen,14,319,1873
+Jardin America,14,319,1874
+Oasis,14,319,1875
+Roca Chica,14,319,1876
+San Ignacio,14,319,1877
+Santo Pipo,14,319,1878
+Itacaruare,14,201,1879
+Mojon Grande,14,201,1880
+San Javier,14,201,1881
+Cruce Caballero,14,120,1882
+Paraiso,14,120,1883
+Pinalito Sur,14,120,1884
+Tobuna,14,120,1885
+Alumine,15,320,1886
+Moquehue,15,320,1887
+Villa Pehuenia,15,320,1888
+Anelo,15,321,1889
+San Patricio del Chanar,15,321,1890
+Las Coloradas,15,322,1891
+Chos Malal,15,323,1892
+Tricao Malal,15,323,1893
+Piedra del Aguila,15,324,1894
+11 de Octubre,15,325,1895
+Barrio Ruca Luhe,15,325,1896
+Centenario,15,325,1897
+Cutral Co,15,325,1898
+El Chocon,15,325,1899
+Mari Menuco,15,325,1900
+Neuquen,15,325,1901
+Plaza Huincul,15,325,1902
+Plottier,15,325,1903
+Senillosa,15,325,1904
+Villa el Chocon,15,325,1905
+Vista Alegre Norte,15,325,1906
+Vista Alegre Sur,15,325,1907
+Junin de los Andes,15,326,1908
+San Martin de los Andes,15,327,1909
+Villa Lago Meliquina,15,327,1910
+Chorriaca,15,328,1911
+Loncopue,15,328,1912
+Villa la Angostura,15,329,1913
+Villa Traful,15,329,1914
+Andacollo,15,192,1915
+Huinganco,15,192,1916
+Las Ovejas,15,192,1917
+Manzano Amargo,15,192,1918
+Varvarco,15,192,1919
+Villa del Nahueve,15,192,1920
+Caviahue,15,330,1921
+Copahue,15,330,1922
+El Cholar,15,330,1923
+El Huecu,15,330,1924
+Taquimilan,15,330,1925
+Buta Ranquil,15,331,1926
+Rincon de los Sauces,15,331,1927
+Picun Leufu,15,332,1928
+Bajada del Agrio,15,333,1929
+Los Catutos,15,334,1930
+Mariano Moreno,15,334,1931
+Zapala,15,334,1932
+Aguada de Guerra,16,1,1933
+Clemente Onelli,16,1,1934
+El Cain,16,1,1935
+Ingeniero Jacobacci,16,1,1936
+Los Menucos,16,1,1937
+Maquinchao,16,1,1938
+Pilquiniyeu,16,1,1939
+Comico,16,2,1940
+Cona Niyeu,16,2,1941
+Ministro Ramos Mexia,16,2,1942
+Prahuaniyeu,16,2,1943
+Sierra Colorada,16,2,1944
+Treneta,16,2,1945
+Yaminue,16,2,1946
+El Condor,16,3,1947
+Guardia Mitre,16,3,1948
+Viedma,16,3,1949
+Chimpay,16,9,1950
+Choele Choel,16,9,1951
+Coronel Belisle,16,9,1952
+Darwin,16,9,1953
+Lamarque,16,9,1954
+Luis Beltran,16,9,1955
+Pomona,16,9,1956
+El Foyel,16,335,1957
+Rio Villegas,16,335,1958
+San Carlos de Bariloche,16,335,1959
+Villa Catedral,16,335,1960
+Villa Llao Llao,16,335,1961
+Villa los Coihues,16,335,1962
+Villa Mascardi,16,335,1963
+Aguada Guzman,16,337,1964
+Cerro Policia,16,337,1965
+El Cuy,16,337,1966
+Las Perlas,16,337,1967
+Mencue,16,337,1968
+Naupa Huen,16,337,1969
+Valle Azul,16,337,1970
+Allen,16,188,1971
+Barda del Medio,16,188,1972
+Barrio Destacamento,16,188,1973
+Barrio el Labrador,16,188,1974
+Barrio Guerrico,16,188,1975
+Catriel,16,188,1976
+Cervantes,16,188,1977
+Chichinales,16,188,1978
+Cinco Saltos,16,188,1979
+Cipolletti,16,188,1980
+Contralmirante Cordero,16,188,1981
+Ferri,16,188,1982
+General Enrique Godoy,16,188,1983
+General Fernandez Oro,16,188,1984
+Ingeniero Luis A. Huergo,16,188,1985
+Mainque,16,188,1986
+Penas Blancas,16,188,1987
+Sargento Vidal,16,188,1988
+Villa Manzano,16,188,1989
+Villa Regina,16,188,1990
+Villa San Isidro,16,188,1991
+Mamuel Choique,16,338,1992
+Norquinco,16,338,1993
+Rio Chico (est. Cerro Mesa),16,338,1994
+Barrio Esperanza,16,339,1995
+Colonia Julia y Echarren,16,339,1996
+Juventud Unida,16,339,1997
+Pichi Mahuida,16,339,1998
+Rio Colorado,16,339,1999
+Salto Andersen,16,339,2000
+Comallo,16,340,2001
+Dina Huapi,16,340,2002
+Paso Flores,16,340,2003
+Pilcaniyeu,16,340,2004
+Pilquiniyeu del Limay,16,340,2005
+Villa Llanquin,16,340,2006
+Las Grutas,16,257,2007
+Playas Doradas,16,257,2008
+Puerto San Antonio Este,16,257,2009
+Punta Colorada,16,257,2010
+Saco Viejo,16,257,2011
+San Antonio Oeste,16,257,2012
+Sierra Grande,16,257,2013
+Aguada Cecilio,16,341,2014
+Arroyo los Berros,16,341,2015
+Arroyo Ventana,16,341,2016
+Nahuel Niyeu,16,341,2017
+Sierra Paileman,16,341,2018
+Valcheta,16,341,2019
+Apolinario Saravia,17,342,2020
+Ceibalito,17,342,2021
+Coronel Mollinedo,17,342,2022
+Coronel Olleros,17,342,2023
+El Quebrachal,17,342,2024
+Gaona,17,342,2025
+General Pizarro,17,342,2026
+Joaquin V. Gonzalez,17,342,2027
+Las Lajitas,17,342,2028
+Luis Burela,17,342,2029
+Piquete Cabado,17,342,2030
+Rio del Valle,17,342,2031
+Tolloche,17,342,2032
+Cachi,17,343,2033
+Payogasta,17,343,2034
+Cafayate,17,344,2035
+Tolombon,17,344,2036
+Atocha,17,144,2037
+El Tipal - la Almudena,17,144,2038
+La Cienaga y Barrio San Rafael,17,144,2039
+Las Costas,17,144,2040
+Salta,17,144,2041
+Villa San Lorenzo,17,144,2042
+Barrio el Congreso,17,345,2043
+Barrio las Tunas,17,345,2044
+Barrio los Pinares,17,345,2045
+Cerrillos,17,345,2046
+Barrio Finca la Maroma,17,346,2047
+Barrio la Rotonda,17,346,2048
+Barrio Santa Teresita,17,346,2049
+Chicoana,17,346,2050
+El Carril,17,346,2051
+Campo Santo,17,161,2052
+Cobos,17,161,2053
+El Bordo,17,161,2054
+General Guemes,17,161,2055
+Aguaray,17,347,2056
+Campamento Vespucio,17,347,2057
+Campichuelo,17,347,2058
+Campo Duran,17,347,2059
+Coronel Cornejo,17,347,2060
+Dragones,17,347,2061
+Embarcacion,17,347,2062
+General Ballivian,17,347,2063
+Hickman,17,347,2064
+Mision el Cruce - el Milagro - el Jardin de San Martin,17,347,2065
+Mision Kilometro 6,17,347,2066
+Pacara,17,347,2067
+Padre Lozano,17,347,2068
+Piquirenda,17,347,2069
+Profesor Salvador Mazza,17,347,2070
+Tartagal,17,347,2071
+Tobantirenda,17,347,2072
+Yacuy,17,347,2073
+Guachipas,17,348,2074
+Iruya,17,349,2075
+Isla de Canas,17,349,2076
+Pueblo Viejo,17,349,2077
+La Caldera,17,350,2078
+Vaqueros,17,350,2079
+El Jardin,17,351,2080
+El Tala,17,351,2081
+La Candelaria,17,351,2082
+La Poma,17,352,2083
+Ampascachi,17,353,2084
+Cabra Corral,17,353,2085
+Talapampa,17,353,2086
+San Antonio de los Cobres,17,354,2087
+Santa Rosa de los Pastos Grandes,17,354,2088
+Tolar Grande,17,354,2089
+El Galpon,17,355,2090
+El Tunal,17,355,2091
+Lumbreras,17,355,2092
+Metan Viejo,17,355,2093
+Rio Piedras,17,355,2094
+San Jose de Metan,17,355,2095
+San Jose de Orquera,17,355,2096
+Molinos,17,356,2097
+Seclantas,17,356,2098
+Aguas Blancas,17,357,2099
+Colonia Santa Rosa,17,357,2100
+El Tabacal,17,357,2101
+Pichanal,17,357,2102
+San Ramon de la Nueva Oran,17,357,2103
+Urundel,17,357,2104
+Alto de la Sierra,17,106,2105
+Capitan Juan Page,17,106,2106
+Coronel Juan Sola,17,106,2107
+Los Blancos,17,106,2108
+Pluma de Pato,17,106,2109
+Santa Victoria Este,17,106,2110
+Antilla,17,358,2111
+Copo Quile,17,358,2112
+El Naranjo,17,358,2113
+Rosario de la Frontera,17,358,2114
+Campo Quijano,17,359,2115
+La Merced del Encon,17,359,2116
+La Silleta,17,359,2117
+Rosario de Lerma,17,359,2118
+Angastaco,17,305,2119
+Animana,17,305,2120
+El Barrial,17,305,2121
+Acoyte,17,360,2122
+Campo la Cruz,17,360,2123
+Nazareno,17,360,2124
+Poscaya,17,360,2125
+Santa Victoria,17,360,2126
+Tupeli,18,1,2127
+Villa Borjas,18,1,2128
+Villa Borjas - la Chimbera,18,1,2129
+Alto de Sierra,18,2,2130
+Colonia Fiorito,18,2,2131
+El Rincon,18,361,2132
+Villa General San Martin,18,361,2133
+Villa General San Martin - Campo Afuera,18,361,2134
+Villa el Salvador - Villa Sefair,18,362,2135
+Barreal - Villa Pituil,18,363,2136
+Calingasta,18,363,2137
+Tamberias,18,363,2138
+San Juan,18,144,2139
+Caucete,18,364,2140
+Vallecito,18,364,2141
+Villa Independencia,18,364,2142
+Chimbas,18,365,2143
+Villa Paula Albarracin,18,365,2144
+Angualasto,18,366,2145
+Iglesia,18,366,2146
+Pismanta,18,366,2147
+Rodeo,18,366,2148
+Tudcum,18,366,2149
+Gran China,18,367,2150
+Huaco,18,367,2151
+Niquivil,18,367,2152
+Pampa Vieja,18,367,2153
+San Jose de Jachal,18,367,2154
+Villa Mercedes,18,367,2155
+Quinto Cuartel,18,368,2156
+Villa Aberastain,18,368,2157
+Villa Aberastain - la Rinconada,18,368,2158
+Villa Barbosa - Villa Nacusi,18,368,2159
+El Medanito,18,181,2160
+Villa Bolanos,18,181,2161
+Villa Krause,18,181,2162
+Dos Acequias (est. los Angacos),18,223,2163
+San Isidro (est. los Angacos),18,223,2164
+Villa Don Bosco (est. Angaco Sud),18,223,2165
+Villa San Martin,18,223,2166
+Canada Honda,18,183,2167
+Cienaguita,18,183,2168
+Las Lagunas,18,183,2169
+Los Berros,18,183,2170
+Villa Media Agua,18,183,2171
+Villa Ibanez,18,370,2172
+Astica,18,371,2173
+Villa San Agustin,18,371,2174
+Villa Basilio Nievas,18,372,2175
+La Majada,19,10,2176
+Lomas Blancas,19,10,2177
+Pampa Grande,19,10,2178
+Quines,19,10,2179
+Rio Juan Gomez,19,10,2180
+San Francisco del Monte de Oro,19,10,2181
+Nogoli,19,373,2182
+Villa de la Quebrada,19,373,2183
+Villa General Roca,19,373,2184
+Concaran,19,28,2185
+Cortaderas,19,28,2186
+El Algarrobal,19,28,2187
+Naschel,19,28,2188
+Renca,19,28,2189
+San Pablo,19,28,2190
+Tilisarao,19,28,2191
+Villa Larca,19,28,2192
+Carolina,19,34,2193
+El Trapiche,19,34,2194
+Fraga,19,34,2195
+La Bajada,19,34,2196
+La Toma,19,34,2197
+Rio Grande,19,34,2198
+Juan Jorba,19,374,2199
+Juan Llerena,19,374,2200
+Justo Daract,19,374,2201
+La Angelina,19,374,2202
+La Punilla,19,374,2203
+Lavaisse,19,374,2204
+San Jose del Morro,19,374,2205
+Villa Salles,19,374,2206
+Anchorena,19,375,2207
+Arizona,19,375,2208
+Bagual,19,375,2209
+Batavia,19,375,2210
+Buena Esperanza,19,375,2211
+Fortin el Patria,19,375,2212
+Fortuna,19,375,2213
+La Maroma,19,375,2214
+Martin de Loyola,19,375,2215
+Nahuel Mapa,19,375,2216
+Navia,19,375,2217
+Nueva Galia,19,375,2218
+Union,19,375,2219
+Carpinteria,19,66,2220
+Cerro de Oro,19,66,2221
+Lafinur,19,66,2222
+Los Cajones,19,66,2223
+Santa Rosa del Conlara,19,66,2224
+Talita,19,66,2225
+Alto Pelado,19,376,2226
+Alto Pencoso,19,376,2227
+Balde,19,376,2228
+Beazley,19,376,2229
+Cazador,19,376,2230
+Chosmes,19,376,2231
+Desaguadero,19,376,2232
+El Volcan,19,376,2233
+Jarilla,19,376,2234
+Juana Koslay,19,376,2235
+La Punta,19,376,2236
+Las Barrancas,19,376,2237
+Potrero de los Funes,19,376,2238
+Salinas del Bebedero,19,376,2239
+San Jeronimo,19,376,2240
+San Luis,19,376,2241
+Varela,19,376,2242
+Zanjitas,19,376,2243
+El Puesto,19,316,2244
+La Vertiente,19,316,2245
+Las Aguadas,19,316,2246
+Paso Grande,19,316,2247
+Potrerillo,19,316,2248
+Villa de Praga,19,316,2249
+Comandante Luis Piedrabuena,20,377,2250
+Puerto Santa Cruz,20,377,2251
+Caleta Olivia,20,378,2252
+Canadon Seco,20,378,2253
+Jaramillo,20,378,2254
+Pico Truncado,20,378,2255
+Puerto Deseado,20,378,2256
+28 de Noviembre,20,379,2257
+El Turbio (est. Gobernador Mayer),20,379,2258
+Rio Gallegos,20,379,2259
+Yacimientos Rio Turbio,20,379,2260
+El Calafate,20,380,2261
+El Chalten,20,380,2262
+Tres Lagos,20,380,2263
+Los Antiguos,20,381,2264
+Perito Moreno,20,381,2265
+Puerto San Julian,20,382,2266
+Bajo Caracoles,20,383,2267
+Gobernador Gregores,20,383,2268
+Esteban Rams,21,2,2269
+Gato Colorado,21,2,2270
+Gregoria Perez de Denis (est. el Nochero),21,2,2271
+Logrono,21,2,2272
+Montefiore,21,2,2273
+Pozo Borrado,21,2,2274
+Santa Margarita,21,2,2275
+Tostado,21,2,2276
+Villa Minetti,21,2,2277
+Armstrong,21,373,2278
+Bouquet,21,373,2279
+Las Parejas,21,373,2280
+Las Rosas,21,373,2281
+Montes de Oca,21,373,2282
+Tortugas,21,373,2283
+Arequito,21,384,2284
+Arteaga,21,384,2285
+Beravebu,21,384,2286
+Bigand,21,384,2287
+Casilda,21,384,2288
+Chabas,21,384,2289
+Chanar Ladeado,21,384,2290
+Godeken,21,384,2291
+Los Nogales,21,384,2292
+Los Quirquinchos,21,384,2293
+San Jose de la Esquina,21,384,2294
+Sanford,21,384,2295
+Villada,21,384,2296
+Aldao (est. Casablanca),21,385,2297
+Angelica,21,385,2298
+Ataliva,21,385,2299
+Aurelia,21,385,2300
+Bauer y Sigel,21,385,2301
+Bella Italia,21,385,2302
+Castellanos,21,385,2303
+Colonia Bicha,21,385,2304
+Colonia Cello,21,385,2305
+Colonia Margarita,21,385,2306
+Colonia Raquel,21,385,2307
+Coronel Fraga,21,385,2308
+Esmeralda,21,385,2309
+Estacion Clucellas,21,385,2310
+Estacion Saguier,21,385,2311
+Eusebia y Carolina,21,385,2312
+Eustolia,21,385,2313
+Frontera,21,385,2314
+Humberto Primo,21,385,2315
+Josefina,21,385,2316
+Lehmann,21,385,2317
+Maria Juana,21,385,2318
+Plaza Clucellas,21,385,2319
+Plaza Saguier,21,385,2320
+Presidente Roca,21,385,2321
+Pueblo Marini,21,385,2322
+Rafaela,21,385,2323
+Ramona,21,385,2324
+Santa Clara de Saguier,21,385,2325
+Sunchales,21,385,2326
+Susana,21,385,2327
+Tacural,21,385,2328
+Vila,21,385,2329
+Virginia,21,385,2330
+Zenon Pereyra,21,385,2331
+Alcorta,21,386,2332
+Bombal,21,386,2333
+Cepeda,21,386,2334
+Empalme Villa Constitucion,21,386,2335
+General Gelly,21,386,2336
+Godoy,21,386,2337
+Juan B. Molina,21,386,2338
+Juncal,21,386,2339
+La Vanguardia,21,386,2340
+Maximo Paz (est. Paz),21,386,2341
+Pavon Arriba,21,386,2342
+Peyrano,21,386,2343
+Rueda,21,386,2344
+Sargento Cabral,21,386,2345
+Stephenson,21,386,2346
+Villa Constitucion,21,386,2347
+Cayasta,21,387,2348
+Los Zapallos,21,387,2349
+Saladero Mariano Cabal,21,387,2350
+Santa Rosa de Calchines,21,387,2351
+Aaron Castellanos (est. Castellanos),21,388,2352
+Amenabar,21,388,2353
+Cafferata,21,388,2354
+Canada del Ucle,21,388,2355
+Carmen,21,388,2356
+Carreras,21,388,2357
+Chapuy,21,388,2358
+Chovet,21,388,2359
+Christophersen,21,388,2360
+Diego de Alvear,21,388,2361
+Elortondo,21,388,2362
+Firmat,21,388,2363
+Hughes,21,388,2364
+La Chispa,21,388,2365
+Labordeboy,21,388,2366
+Maggiolo,21,388,2367
+Maria Teresa,21,388,2368
+Melincue (est. San Urbano),21,388,2369
+Miguel Torres,21,388,2370
+Murphy,21,388,2371
+Rufino,21,388,2372
+San Eduardo,21,388,2373
+San Francisco de Santa Fe,21,388,2374
+San Gregorio,21,388,2375
+Sancti Spiritu,21,388,2376
+Teodelina,21,388,2377
+Venado Tuerto,21,388,2378
+Villa Canas,21,388,2379
+Wheelwright,21,388,2380
+Arroyo Ceibal,21,389,2381
+Avellaneda (est. Ewald),21,389,2382
+Berna,21,389,2383
+El Araza,21,389,2384
+El Rabon,21,389,2385
+Florencia,21,389,2386
+Guadalupe Norte,21,389,2387
+Ingeniero Chanourdie,21,389,2388
+La Isleta,21,389,2389
+La Sarita,21,389,2390
+Lanteri,21,389,2391
+Las Garzas,21,389,2392
+Los Laureles,21,389,2393
+Malabrigo,21,389,2394
+Paraje San Manuel,21,389,2395
+Reconquista,21,389,2396
+San Antonio de Obligado,21,389,2397
+Tacuarendi (emb. Kilometro 421),21,389,2398
+Villa Ana,21,389,2399
+Villa Guillermina,21,389,2400
+Villa Ocampo,21,389,2401
+Barrio Cicarelli,21,390,2402
+Bustinza,21,390,2403
+Canada de Gomez,21,390,2404
+Carrizales (est. Clarke),21,390,2405
+Classon,21,390,2406
+Colonia Medici,21,390,2407
+Correa,21,390,2408
+Larguia,21,390,2409
+Lucio V. Lopez,21,390,2410
+Oliveros,21,390,2411
+Pueblo Andino,21,390,2412
+Salto Grande,21,390,2413
+Serodino,21,390,2414
+Totoras,21,390,2415
+Villa Eloisa,21,390,2416
+Villa la Rivera (oliveros),21,390,2417
+Villa la Rivera (pueblo Andino),21,390,2418
+Angel Gallardo,21,376,2419
+Arroyo Aguiar,21,376,2420
+Arroyo Leyes,21,376,2421
+Cabal,21,376,2422
+Candioti,21,376,2423
+Emilia,21,376,2424
+Laguna Paiva,21,376,2425
+Llambi Campbell,21,376,2426
+Monte Vera,21,376,2427
+Nelson,21,376,2428
+San Jose del Rincon,21,376,2429
+Santa Fe,21,376,2430
+Sauce Viejo,21,376,2431
+Cavour,21,391,2432
+Cululu,21,391,2433
+Elisa,21,391,2434
+Empalme San Carlos,21,391,2435
+Felicia,21,391,2436
+Franck,21,391,2437
+Grutly,21,391,2438
+Hipatia,21,391,2439
+Humboldt,21,391,2440
+La Pelada,21,391,2441
+Maria Luisa,21,391,2442
+Matilde,21,391,2443
+Nuevo Torino,21,391,2444
+Progreso,21,391,2445
+Providencia,21,391,2446
+Sa Pereyra,21,391,2447
+San Carlos Centro,21,391,2448
+San Carlos Norte,21,391,2449
+San Carlos Sud,21,391,2450
+San Jeronimo del Sauce,21,391,2451
+San Jeronimo Norte,21,391,2452
+Santa Clara de Buena Vista,21,391,2453
+Acebal,21,392,2454
+Albarellos,21,392,2455
+Alvarez,21,392,2456
+Arminda,21,392,2457
+Arroyo Seco,21,392,2458
+Carmen del Sauce,21,392,2459
+Coronel Bogado,21,392,2460
+Coronel Rodolfo S. Dominguez,21,392,2461
+Cuatro Esquinas,21,392,2462
+El Caramelo,21,392,2463
+Fighiera,21,392,2464
+Funes,21,392,2465
+General Lagos,21,392,2466
+Granadero Baigorria,21,392,2467
+Ibarlucea,21,392,2468
+Kilometro 101,21,392,2469
+Perez,21,392,2470
+Pinero (est. Erasto),21,392,2471
+Pueblo Esther,21,392,2472
+Pueblo Munoz (est. Bernard),21,392,2473
+Pueblo Uranga,21,392,2474
+Puerto Arroyo Seco,21,392,2475
+Rosario,21,392,2476
+Soldini,21,392,2477
+Villa Amelia,21,392,2478
+Villa del Plata,21,392,2479
+Villa Gobernador Galvez,21,392,2480
+Zavalla,21,392,2481
+Aguara Grande,21,393,2482
+Ambrosetti,21,393,2483
+Arrufo,21,393,2484
+Balneario la Verde,21,393,2485
+Capivara,21,393,2486
+Ceres,21,393,2487
+Colonia Ana,21,393,2488
+Colonia Bossi,21,393,2489
+Colonia Rosa,21,393,2490
+Curupaity,21,393,2491
+Hersilia,21,393,2492
+Huanqueros,21,393,2493
+La Cabral,21,393,2494
+La Rubia,21,393,2495
+Las Palmeras,21,393,2496
+Moises Ville,21,393,2497
+Monigotes,21,393,2498
+Nanducita,21,393,2499
+Palacios,21,393,2500
+San Cristobal,21,393,2501
+San Guillermo,21,393,2502
+Santurce,21,393,2503
+Soledad,21,393,2504
+Suardi,21,393,2505
+Villa Saralegui,21,393,2506
+Alejandra,21,201,2507
+Cacique Ariacaiquin,21,201,2508
+Colonia Duran,21,201,2509
+La Brava,21,201,2510
+Romang,21,201,2511
+Arocena,21,394,2512
+Barrio Caima,21,394,2513
+Bernardo de Irigoyen (est. Irigoyen),21,394,2514
+Centeno,21,394,2515
+Coronda,21,394,2516
+Desvio Arijon,21,394,2517
+Diaz,21,394,2518
+Gaboto,21,394,2519
+Galvez,21,394,2520
+Gessler,21,394,2521
+Irigoyen,21,394,2522
+Larrechea,21,394,2523
+Loma Alta,21,394,2524
+Lopez (est. San Martin de Tours),21,394,2525
+Maciel,21,394,2526
+Monje,21,394,2527
+San Eugenio,21,394,2528
+San Fabian,21,394,2529
+San Genaro,21,394,2530
+San Genaro Norte,21,394,2531
+Angeloni,21,202,2532
+Cayastacito,21,202,2533
+Colonia Dolores,21,202,2534
+Esther,21,202,2535
+Gobernador Crespo,21,202,2536
+La Criolla (est. Canadita),21,202,2537
+La Penca y Caraguata,21,202,2538
+Marcelino Escalada,21,202,2539
+Nare,21,202,2540
+Pedro Gomez Cello,21,202,2541
+Ramayon,21,202,2542
+San Martin Norte,21,202,2543
+Silva (est. Abipones),21,202,2544
+Vera y Pintado (est. Guaranies),21,202,2545
+Videla,21,202,2546
+Aldao,21,169,2547
+Capitan Bermudez,21,169,2548
+Carcarana,21,169,2549
+Coronel Arnold,21,169,2550
+Fuentes,21,169,2551
+Luis Palacios (est. la Salada),21,169,2552
+Puerto General San Martin,21,169,2553
+Pujato,21,169,2554
+Ricardone,21,169,2555
+Roldan,21,169,2556
+San Jeronimo Sud,21,169,2557
+Timbues,21,169,2558
+Villa Mugueta,21,169,2559
+Canada Rosquin,21,223,2560
+Carlos Pellegrini,21,223,2561
+Casas,21,223,2562
+Colonia Belgrano,21,223,2563
+El Trebol,21,223,2564
+Landeta,21,223,2565
+Las Bandurrias,21,223,2566
+Las Petacas,21,223,2567
+Los Cardos,21,223,2568
+Maria Susana,21,223,2569
+Piamonte,21,223,2570
+San Jorge,21,223,2571
+San Martin de las Escobas,21,223,2572
+Sastre,21,223,2573
+Calchaqui,21,395,2574
+Canada Ombu,21,395,2575
+Colmena,21,395,2576
+Fortin Olmos,21,395,2577
+Garabato,21,395,2578
+Golondrina,21,395,2579
+Intiyaco,21,395,2580
+Kilometro 115,21,395,2581
+La Gallareta,21,395,2582
+Los Amores,21,395,2583
+Margarita,21,395,2584
+Paraje 29,21,395,2585
+Pozo de los Indios,21,395,2586
+Pueblo Santa Lucia,21,395,2587
+Tartagal (est. el Tajamar),21,395,2588
+Toba,21,395,2589
+Vera (est. Gobernador Vera),21,395,2590
+Argentina,22,396,2591
+Casares,22,396,2592
+Malbran,22,396,2593
+Villa General Mitre (est. Pinto),22,396,2594
+Campo Gallo,22,397,2595
+Coronel Manuel L. Rico,22,397,2596
+Donadeu,22,397,2597
+Sachayoj,22,397,2598
+Estacion Atamisqui,22,398,2599
+Medellin,22,398,2600
+Villa Atamisqui,22,398,2601
+Colonia Dora,22,9,2602
+Lugones,22,9,2603
+Real Sayana,22,9,2604
+Villa Mailin,22,9,2605
+Abra Grande,22,399,2606
+Chaupi Pozo,22,399,2607
+Clodomira,22,399,2608
+Huyamampa,22,399,2609
+La Aurora,22,399,2610
+Los Quiroga,22,399,2611
+Los Soria,22,399,2612
+Simbolar,22,399,2613
+Tramo 20,22,399,2614
+Bandera,22,373,2615
+Cuatro Bocas,22,373,2616
+Fortin Inca,22,373,2617
+Guardia Escolta,22,373,2618
+El Mojon,22,144,2619
+El Zanjon,22,144,2620
+Los Cardozos,22,144,2621
+Maco,22,144,2622
+Maquito,22,144,2623
+Morales,22,144,2624
+Santiago del Estero,22,144,2625
+Vuelta de la Barranca,22,144,2626
+Yanda,22,144,2627
+Choya,22,400,2628
+Estacion la Punta,22,400,2629
+Frias,22,400,2630
+Villa la Punta,22,400,2631
+El Cabure,22,401,2632
+La Firmeza,22,401,2633
+Los Pirpintos,22,401,2634
+Los Tigres,22,401,2635
+Monte Quemado,22,401,2636
+Nueva Esperanza,22,401,2637
+Pampa de los Guanacos,22,401,2638
+San Jose del Boqueron,22,401,2639
+Urutau,22,401,2640
+Bandera Bajada,22,402,2641
+Caspi Corral,22,402,2642
+Colonia San Juan,22,402,2643
+La Canada,22,402,2644
+La Invernada,22,402,2645
+Vaca Huanuna,22,402,2646
+Villa Figueroa,22,402,2647
+Anatuya,22,403,2648
+Averias,22,403,2649
+Estacion Tacanitas,22,403,2650
+Los Juries,22,403,2651
+Tomas Young,22,403,2652
+El Arenal,22,405,2653
+El Bobadal,22,405,2654
+El Charco,22,405,2655
+Gramilla,22,405,2656
+Isca Yacu,22,405,2657
+Pozo Hondo,22,405,2658
+El Cuadrado,22,406,2659
+Matara,22,406,2660
+Suncho Corral,22,406,2661
+Vilelas,22,406,2662
+Villa San Martin (est. Loreto),22,407,2663
+Aerolito,22,88,2664
+Alhuampa,22,88,2665
+Hasse,22,88,2666
+Hernan Mejia Miraval,22,88,2667
+Las Tinajas,22,88,2668
+Patay,22,88,2669
+Pueblo Pablo Torelo (est. Otumpa),22,88,2670
+Quimili,22,88,2671
+Roversi,22,88,2672
+Tintina,22,88,2673
+Weisburd,22,88,2674
+Sol de Julio,22,409,2675
+Villa Ojo de Agua,22,409,2676
+Las Delicias,22,95,2677
+Rapelli,22,95,2678
+Ramirez de Velazco,22,410,2679
+Sumampa,22,410,2680
+Sumampa Viejo,22,410,2681
+Chanar Pozo de Abajo,22,411,2682
+Chauchillas,22,411,2683
+Colonia Tinco,22,411,2684
+Los Nunez,22,411,2685
+Mansupa,22,411,2686
+Pozuelos,22,411,2687
+Termas de Rio Hondo,22,411,2688
+Villa Rio Hondo,22,411,2689
+Colonia Alpina,22,106,2690
+Palo Negro,22,106,2691
+Selva,22,106,2692
+Beltran,22,412,2693
+Colonia el Simbolar,22,412,2694
+Fernandez,22,412,2695
+Ingeniero Forres (est. Chaguar Punco),22,412,2696
+Vilmer,22,412,2697
+Chilca Juliana,22,413,2698
+Los Telares,22,413,2699
+Villa Salavina,22,413,2700
+Brea Pozo,22,223,2701
+Estacion Robles,22,223,2702
+Estacion Taboada,22,223,2703
+Garza,22,183,2704
+Arraga,22,414,2705
+Nueva Francia,22,414,2706
+Simbol,22,414,2707
+Base Belgrano Ii,23,415,2708
+Base Orcadas,23,415,2709
+Base San Martin,23,415,2710
+Tolhuin,23,416,2711
+Laguna Escondida,23,417,2712
+Ushuaia,23,417,2713
+7 de Abril,24,418,2714
+Garmendia,24,418,2715
+Piedrabuena,24,418,2716
+Villa Burruyacu,24,418,2717
+San Miguel de Tucuman (est. Tucuman),24,144,2718
+Arcadia,24,419,2719
+Alderetes,24,420,2720
+Banda del Rio Sali,24,420,2721
+Colombres,24,420,2722
+Delfin Gallo,24,420,2723
+El Bracho,24,420,2724
+Las Cejas,24,420,2725
+Los Ralos,24,420,2726
+Ranchillos,24,420,2727
+San Andres,24,420,2728
+Famailla,24,421,2729
+Graneros,24,422,2730
+Taco Ralo,24,422,2731
+Juan Bautista Alberdi,24,423,2732
+La Cocha,24,424,2733
+San Jose de la Cocha,24,424,2734
+Estacion Araoz,24,425,2735
+Manuel Garcia Fernandez,24,425,2736
+Pala Pala,24,425,2737
+Santa Rosa de Leales,24,425,2738
+Villa de Leales,24,425,2739
+Villa Fiad - Ingenio Leales,24,425,2740
+El Manantial,24,426,2741
+Ingenio San Pablo,24,426,2742
+La Reduccion,24,426,2743
+Lules,24,426,2744
+Acheral,24,427,2745
+Capitan Caceres,24,427,2746
+Monteros,24,427,2747
+Pueblo Independencia,24,427,2748
+Rio Seco,24,427,2749
+Sargento Moya,24,427,2750
+Teniente Berdina,24,427,2751
+Villa Quinteros,24,427,2752
+Aguilares,24,383,2753
+Rio Chico,24,383,2754
+Atahona,24,428,2755
+Monteagudo,24,428,2756
+Nueva Trinidad,24,428,2757
+Simoca,24,428,2758
+Villa Chicligasta,24,428,2759
+Amaicha del Valle,24,429,2760
+Colalao del Valle,24,429,2761
+El Mollar,24,429,2762
+Tafi del Valle,24,429,2763
+Barrio Lomas de Tafi,24,430,2764
+Barrio Mutual San Martin,24,430,2765
+Diagonal Norte - Luz y Fuerza - los Pocitos - Villa Nueva Italia (6),24,430,2766
+Tafi Viejo,24,430,2767
+Villa Mariano Moreno - el Colmenar,24,430,2768
+San Pedro de Colalao,24,431,2769
+Villa de Trancas,24,431,2770
+Villa Carmela,24,432,2771
+Yerba Buena - Marcos Paz,24,432,2772
+Bellocq,2,24,2773
+Garre,2,61,2774
+Berutti,2,128,2775
+Gobernador Costa,5,184,2776
+San Ignacio (loteo Velez Crespo),6,186,2777
+Canteras Quilpo,6,187,2778
+Nicolas Bruzzone,6,188,2779
+Guasapampa,6,192,2780
+Talaini,6,192,2781
+San Joaquin,6,194,2782
+La Almona,10,251,2783
+Rio Blanco,10,255,2784
+Loteo Navea,10,257,2785
+Pichi Huinca,11,281,2786
+Machigasta,12,286,2787
+Guanchin,12,289,2788
+Castro Barros,12,48,2789
+Suriyaco,12,297,2790
+Tuyubil,12,297,2791
+Jague,12,299,2792
+Villa el Salvador,18,362,2793
